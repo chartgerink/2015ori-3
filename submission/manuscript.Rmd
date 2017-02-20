@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+author: "CHJ Hartgerink, JG Voelkel, JM Wicherts, MALM van Assen"
+date: "February 16, 2017"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+if(!require(httr)) install.packages('httr')
+# Read in data
+# As downloaded from https://doi.org/10.17026/dans-2cm-v9j9
+# Stored on OSF for direct download. If it fails follow DOI above
+if(!file.exists('../data/statcheck_dataset.csv'))
+{
+  httr::GET(url = 'https://osf.io/8u7h7?action=download',
+            httr::write_disk('../data/statcheck_dataset.csv', overwrite = TRUE))
+}
+
+dat <- read.csv('../data/statcheck_dataset.csv')
+
+# Source applicable custom functions
+if(!file.exists('../functions/esComp.R'))
+{
+  # This is hosted on github, but is only called on if something weird happens
+  httr::GET(url = 'https://raw.githubusercontent.com/chartgerink/2014tgtbf/master/functions/esComp.R',
+            httr::write_disk('../functions/esComp.R', overwrite = TRUE))
+}
+source('../functions/esComp.R')
+source('../functions/fisher_method_reversed.R')
+
+
+# Clean for impossible values
+
+# 
+```
+
+```{r compute es and fisher test, echo = FALSE}
+
+# Add the effect sizes to the dataset
+dat <- cbind(dat, esComp.statcheck(dat))
+# Add the results for the Fisher method
+fisher_res <- fisher_method_rev(dat, statcheck = TRUE)
+```
