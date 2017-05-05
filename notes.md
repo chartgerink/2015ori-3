@@ -5,3 +5,7 @@ Searching for the Open Access corpus is done with the ScienceOpen search. [This]
 ![ScienceOpen search results](figures/search-results.png)
 
 It says 422 results, but when browsing through it on the page gives only 370 results (at least that's what ScienceOpen shows...). One [article](http://www.ncbi.nlm.nih.gov/pmc/articles/5054138) was left out, resulting in 369 articles (this article didn't have a DOI).
+
+# Ideas
+
+1. Extend this to flowcharts to analyze CONSORT or PRISMA flows
