@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600.0" height="800.0" stroke="none" stroke-width="0.0" xmlns="http://www.w3.org/2000/svg" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+ <defs id="defs1">
+  <clipPath id="clipPath7">
+   <path stroke="black" stroke-width="0.5" fill="none" d=""/>
+  </clipPath>
+  <clipPath id="clipPath5">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M97.414 102.358 L97.414 407.064 L497.86 407.064 L497.86 102.358 Z"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M98.237 426.519 L98.237 731.903 L497.037 731.903 L497.037 426.519 Z"/>
+  </clipPath>
+  <clipPath id="clipPath21">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M127.142 426.024 L127.142 730.151 L468.133 730.151 L468.133 426.024 Z"/>
+  </clipPath>
+  <clipPath id="clipPath16">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M166.174 86.994 L166.174 269.939 L429.104 269.939 L429.104 86.994 Z"/>
+  </clipPath>
+  <clipPath id="clipPath11">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M101.106 429.122 L101.106 728.411 L493.708 728.411 L493.708 429.122 Z"/>
+  </clipPath>
+  <clipPath id="clipPath2">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L595.0 0.0 L595.0 841.0 L0.0 841.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath39">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M114.574 427.7 L114.574 732.665 L480.7 732.665 L480.7 427.7 Z"/>
+  </clipPath>
+  <clipPath id="clipPath20">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M122.952 86.997 L122.952 390.287 L472.322 390.287 L472.322 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath30">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M120.344 370.055 L120.344 370.977 L472.799 370.977 L472.799 370.055 Z"/>
+  </clipPath>
+  <clipPath id="clipPath40">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M117.465 430.302 L117.465 729.592 L477.925 729.592 L477.925 430.302 Z"/>
+  </clipPath>
+  <clipPath id="clipPath37">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M116.831 89.805 L116.831 389.152 L478.559 389.152 L478.559 89.805 Z"/>
+  </clipPath>
+  <clipPath id="clipPath24">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M119.617 429.045 L119.617 728.335 L474.894 728.335 L474.894 429.045 Z"/>
+  </clipPath>
+  <clipPath id="clipPath32">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M118.869 429.465 L118.869 728.754 L476.046 728.754 L476.046 429.465 Z"/>
+  </clipPath>
+  <clipPath id="clipPath9">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M101.998 89.115 L101.998 388.463 L493.562 388.463 L493.562 89.115 Z"/>
+  </clipPath>
+  <clipPath id="clipPath27">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M120.344 88.967 L120.344 388.315 L474.987 388.315 L474.987 88.967 Z"/>
+  </clipPath>
+  <clipPath id="clipPath33">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M118.869 430.271 L118.869 712.223 L472.648 712.223 L472.648 430.271 Z"/>
+  </clipPath>
+  <clipPath id="clipPath34">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M118.869 464.082 L118.869 465.004 L472.648 465.004 L472.648 464.082 Z"/>
+  </clipPath>
+  <clipPath id="clipPath4">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M0.0 0.0 L841.0 0.0 L841.0 595.0 L0.0 595.0 L0.0 0.0 Z"/>
+  </clipPath>
+  <clipPath id="clipPath36">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M114.155 86.997 L114.155 391.962 L481.119 391.962 L481.119 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath41">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M121.036 430.302 L121.036 711.563 L475.621 711.563 L475.621 430.302 Z"/>
+  </clipPath>
+  <clipPath id="clipPath29">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M120.344 123.412 L120.344 124.334 L472.799 124.334 L472.799 123.412 Z"/>
+  </clipPath>
+  <clipPath id="clipPath26">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M117.925 86.997 L117.925 391.544 L477.348 391.544 L477.348 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath17">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M169.862 318.494 L169.862 496.617 L425.417 496.617 L425.417 318.494 Z"/>
+  </clipPath>
+  <clipPath id="clipPath28">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M120.344 89.659 L120.344 370.862 L472.799 370.862 L472.799 89.659 Z"/>
+  </clipPath>
+  <clipPath id="clipPath12">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M97.818 86.997 L97.818 392.381 L497.456 392.381 L497.456 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath13">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.877 89.595 L100.877 388.942 L494.457 388.942 L494.457 89.595 Z"/>
+  </clipPath>
+  <clipPath id="clipPath14">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M98.865 428.118 L98.865 732.246 L496.409 732.246 L496.409 428.118 Z"/>
+  </clipPath>
+  <clipPath id="clipPath25">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M119.674 429.045 L119.674 708.348 L472.417 708.348 L472.417 429.045 Z"/>
+  </clipPath>
+  <clipPath id="clipPath15">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M100.625 430.302 L100.625 729.592 L494.666 729.592 L494.666 430.302 Z"/>
+  </clipPath>
+  <clipPath id="clipPath38">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M118.963 89.805 L118.963 371.757 L474.355 371.757 L474.355 89.805 Z"/>
+  </clipPath>
+  <clipPath id="clipPath31">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M116.46 427.281 L116.46 732.246 L478.815 732.246 L478.815 427.281 Z"/>
+  </clipPath>
+  <clipPath id="clipPath18">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M114.819 86.992 L114.819 409.211 L480.461 409.211 L480.461 86.992 Z"/>
+  </clipPath>
+  <clipPath id="clipPath43">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M120.858 428.12 L120.858 731.828 L474.416 731.828 L474.416 428.12 Z"/>
+  </clipPath>
+  <clipPath id="clipPath44">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M121.068 86.997 L121.068 391.543 L474.207 391.543 L474.207 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath23">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M117.716 427.281 L117.716 731.408 L477.558 731.408 L477.558 427.281 Z"/>
+  </clipPath>
+  <clipPath id="clipPath22">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M122.743 86.997 L122.743 391.544 L472.531 391.544 L472.531 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath8">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M99.542 86.997 L99.542 390.782 L495.731 390.782 L495.731 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath19">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M126.791 444.944 L126.791 740.379 L468.489 740.379 L468.489 444.944 Z"/>
+  </clipPath>
+  <clipPath id="clipPath1">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M76.535 48.41 L76.535 82.364 L220.445 82.364 L220.445 48.41 Z"/>
+  </clipPath>
+  <clipPath id="clipPath3">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M89.391 304.021 L89.391 650.84 L505.886 650.84 L505.886 304.021 Z"/>
+  </clipPath>
+  <clipPath id="clipPath42">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M121.068 86.997 L121.068 392.382 L474.207 392.382 L474.207 86.997 Z"/>
+  </clipPath>
+  <clipPath id="clipPath6">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M99.891 104.752 L99.891 404.042 L495.257 404.042 L495.257 104.752 Z"/>
+  </clipPath>
+  <clipPath id="clipPath35">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M118.869 711.474 L118.869 712.339 L472.648 712.339 L472.648 711.474 Z"/>
+  </clipPath>
+  <clipPath id="clipPath45">
+   <path stroke="black" stroke-width="0.5" fill="none" d="M121.067 427.28 L121.067 730.988 L474.207 730.988 L474.207 427.28 Z"/>
+  </clipPath>
+ </defs>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="333.0" x="76.535" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="556.0" x="79.189" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="333.0" x="83.62" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="86.274" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="333.0" x="90.738" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">J</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="93.392" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="611.0" x="97.377" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="556.0" x="102.247" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="106.678" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="278.0" x="110.663" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="112.879" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="444.0" x="115.836" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="556.0" x="119.374" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="123.806" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="667.0" x="128.269" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="133.585" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="136.685" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="139.786" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="611.0" x="144.249" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="556.0" x="149.119" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="463.0" x="153.55" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="278.0" x="157.24" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="278.0" x="159.456" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="407.0" x="161.672" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="778.0" x="166.908" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">H</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="173.109" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="444.0" x="176.209" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="278.0" x="179.748" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="333.0" x="181.964" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="184.618" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="190.594" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="194.579" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="bold">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="198.564" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="bold">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="202.549" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="bold">6</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="250.0" x="206.534" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="210.52" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="214.505" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal" font-style="italic">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="250.0" x="218.49" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="224.468" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">4</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="228.453" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">5</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="232.438" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="491.809" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="495.794" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">9</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="501.771" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="506.123" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="510.769" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="514.755" y="62.089" font-size="7.97" font-family="Helvetica" font-weight="normal">4</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="85.23" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="87.775" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="92.028" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="94.573" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="96.531" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="98.432" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">J</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="100.977" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="102.935" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="611.0" x="104.836" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="109.51" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="113.764" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="117.623" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="119.756" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="444.0" x="122.73" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="126.125" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="130.444" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="132.345" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="667.0" x="134.246" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="139.349" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="142.4" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="145.374" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="147.283" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="611.0" x="149.184" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="153.859" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="463.0" x="158.112" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="161.684" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="163.808" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="407.0" x="165.931" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="169.101" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="778.0" x="171.002" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">H</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="176.956" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="444.0" x="179.93" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="183.325" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="185.515" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="188.06" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="191.92" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="193.864" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="197.724" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="201.583" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="205.443" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">6</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="209.301" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="211.201" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="213.102" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="216.962" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="220.82" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="222.721" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="224.622" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">4</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="228.481" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">5</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="232.341" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="236.142" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="483.764" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="487.622" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">9</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="491.48" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="493.381" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="497.591" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="500.125" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="502.026" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="505.884" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">5</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="509.742" y="-262.378" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="471.784" y="57.763" font-size="11.52" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="558.0" x="125.089" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="333.0" x="129.914" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="556.0" x="132.795" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="611.0" x="137.602" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="389.0" x="142.884" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="146.249" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="150.572" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="152.761" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="157.084" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="161.408" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="163.509" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="525.0" x="165.697" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="170.234" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="553.0" x="175.445" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="180.224" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="395.0" x="185.029" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="188.442" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="193.161" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="198.371" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="203.565" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="207.229" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="209.418" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="214.136" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="217.014" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="219.202" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="224.007" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="228.146" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="233.176" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="237.894" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="240.712" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="245.516" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="250.71" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="253.225" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="258.254" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="263.059" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="265.248" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="272.878" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="277.017" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="279.834" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="284.864" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="289.582" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="294.862" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="298.526" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="300.597" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="305.318" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="308.141" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="310.329" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="315.629" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="319.953" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="324.276" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="328.599" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="332.923" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="339.052" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="444.0" x="341.241" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="345.08" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="349.801" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="352.624" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="357.925" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="362.645" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="370.278" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="372.796" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="377.828" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="382.151" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="387.183" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="390.003" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="392.192" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="399.824" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="404.545" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="409.828" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="413.97" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="416.487" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="419.368" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="423.691" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="425.88" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="428.76" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="434.06" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="440.105" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="442.294" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="446.618" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="449.982" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="452.086" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="454.274" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="459.568" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="464.862" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="467.684" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="469.842" y="74.294" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="471.784" y="388.963" font-size="11.52" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="558.0" x="124.686" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="333.0" x="129.511" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="556.0" x="132.391" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="611.0" x="137.199" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="389.0" x="142.481" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="145.846" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="150.169" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="152.358" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="156.681" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="161.004" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="163.106" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="525.0" x="165.294" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="169.831" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="553.0" x="175.042" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="179.821" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="395.0" x="184.625" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="188.039" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="192.757" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="197.968" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="203.162" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="206.826" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="209.014" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="213.733" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="216.611" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="218.799" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="223.604" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="227.743" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="232.773" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="237.491" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="240.308" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="245.113" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="250.307" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="252.822" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="257.851" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="262.656" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="264.844" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="272.474" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="276.614" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="279.431" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="284.461" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="289.179" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="294.459" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="298.123" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="300.194" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="304.914" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="307.737" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="309.925" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="315.224" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="319.547" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="323.869" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="328.192" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="332.514" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="338.643" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="444.0" x="340.831" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="344.67" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="349.39" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="352.213" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="357.513" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="362.233" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="369.865" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="372.382" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="377.413" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="381.736" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="386.767" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="389.586" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="391.774" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="399.406" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="404.126" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="409.408" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="413.549" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="416.066" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="418.946" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="423.268" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="425.457" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="428.336" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="434.465" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="440.508" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="442.696" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="447.019" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="450.382" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="452.489" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="454.677" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="459.971" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="465.265" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="468.087" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath44)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="470.245" y="405.494" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <image transform="matrix(0.550703299762386,-0.0,-0.0,0.5232335812440283,123.18863677978516,-241.75653076171875)" xlink:href="fulltext.p19.i1.png" x="0.0" y="0.0" width="633.0" height="572.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <image transform="matrix(0.5387869757154817,-0.0,-0.0,0.5215108042207355,123.18863677978516,89.3858642578125)" xlink:href="fulltext.p19.i2.png" x="0.0" y="0.0" width="647.0" height="574.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="556.0" x="117.886" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="333.0" x="122.871" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="556.0" x="125.857" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="611.0" x="130.842" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="389.0" x="136.321" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="139.809" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="146.534" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="151.017" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="250.0" x="155.5" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="525.0" x="160.521" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="603.0" x="165.228" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="553.0" x="170.635" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="175.594" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="395.0" x="180.579" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="183.959" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="603.0" x="188.855" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="601.0" x="194.262" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="424.0" x="199.65" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="205.694" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="210.589" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="215.817" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="220.802" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="225.097" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="230.316" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="235.211" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="238.134" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="601.0" x="243.12" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="248.508" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="251.118" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="256.336" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="263.563" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="271.48" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="275.775" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="278.698" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="283.917" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="288.812" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="424.0" x="294.291" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="300.334" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="305.23" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="310.457" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="315.954" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="320.437" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="324.92" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="329.403" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="333.886" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="444.0" x="342.485" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="346.466" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="351.362" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="354.348" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="359.826" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="364.722" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="372.639" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="375.249" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="380.467" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="384.95" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="390.169" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="395.333" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="403.251" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="408.146" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="413.625" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="417.92" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="420.529" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">-</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="423.515" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="430.239" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="433.225" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="439.582" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="448.177" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="452.66" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="456.148" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="461.17" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="466.666" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="472.163" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="250.0" x="475.149" y="410.481" font-size="8.966" font-family="Helvetica" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="84.811" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">I</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="87.356" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="91.609" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="94.154" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="96.112" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="98.013" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">J</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="100.557" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="102.516" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="611.0" x="104.416" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">E</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="109.091" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="113.344" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="117.204" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="119.336" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="444.0" x="122.31" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="125.706" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="130.025" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="131.925" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="667.0" x="133.826" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">R</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="138.93" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="141.981" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="144.955" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="146.864" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="611.0" x="148.765" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">P</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="556.0" x="153.439" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="463.0" x="157.692" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="161.265" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="163.388" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="407.0" x="165.512" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="168.682" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="778.0" x="170.583" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">H</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="176.537" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="444.0" x="179.51" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="278.0" x="182.906" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="333.0" x="185.096" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="187.641" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="191.5" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="193.445" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="197.304" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="201.164" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="205.023" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="bold">6</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="208.881" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="210.782" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="212.682" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">1</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="216.542" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal" font-style="italic">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="220.401" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">,</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="222.301" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="224.202" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">4</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="228.062" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">5</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="231.921" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="235.722" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="483.345" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="487.203" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">0</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="491.061" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="492.961" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="497.172" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="499.706" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="501.606" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="505.464" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal">5</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="509.322" y="408.843" font-size="7.661" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="471.364" y="728.983" font-size="11.52" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="558.0" x="123.575" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="333.0" x="128.4" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="556.0" x="131.281" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="611.0" x="136.088" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="389.0" x="141.37" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="144.735" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="149.058" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="151.247" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="155.57" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="159.894" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="161.995" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="525.0" x="164.183" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="168.72" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="553.0" x="173.931" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="178.71" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="395.0" x="183.515" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="186.928" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="191.647" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="196.857" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="202.051" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="205.715" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="207.904" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="212.622" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="215.5" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="217.688" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="222.493" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="226.633" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="231.662" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="236.38" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="239.198" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="244.002" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="249.196" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="251.711" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="256.74" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="261.545" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="263.734" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="271.364" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="275.503" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="278.32" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="283.35" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="288.068" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="293.348" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="297.012" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="299.083" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="303.803" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="306.626" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="308.814" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="314.113" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="318.436" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="322.759" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="327.081" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="331.404" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="337.532" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="339.721" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="345.002" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="349.669" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="357.3" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="359.817" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="364.848" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="369.171" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="374.202" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="377.021" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="379.21" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="386.841" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="391.561" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="396.843" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="400.984" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="403.501" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="405.69" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="408.512" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="414.641" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="420.769" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="422.957" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">+</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="427.28" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="429.469" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="434.767" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="440.896" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="443.659" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="445.847" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="450.17" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="453.534" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="455.697" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="457.886" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="463.141" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="468.442" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="470.561" y="745.514" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="471.364" y="1060.183" font-size="11.52" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="558.0" x="142.699" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="333.0" x="147.523" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="556.0" x="150.404" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="611.0" x="155.211" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="389.0" x="160.494" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="163.858" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="168.181" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="170.37" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="500.0" x="174.693" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="179.017" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="181.118" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="525.0" x="183.307" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="187.844" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="553.0" x="193.056" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="197.836" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="395.0" x="202.641" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="206.056" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="603.0" x="210.775" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="215.987" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="221.181" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="224.846" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="227.035" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="231.754" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="234.633" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="236.821" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="241.627" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="245.767" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="250.797" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="326.0" x="255.516" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="258.335" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="601.0" x="263.14" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="268.335" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="582.0" x="270.851" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="556.0" x="275.881" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="280.686" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="282.875" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="287.594" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="290.473" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="292.661" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="297.959" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="302.281" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="306.603" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="310.925" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="315.246" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="321.374" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="395.0" x="323.562" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="326.977" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="444.0" x="331.117" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">c</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="334.955" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="339.095" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="424.0" x="342.761" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="346.426" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="565.0" x="348.942" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="353.825" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="357.914" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="883.0" x="360.103" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="546.0" x="367.734" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="611.0" x="372.453" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="479.0" x="377.733" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="291.0" x="381.874" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="384.39" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="386.578" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="392.706" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="398.673" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="500.0" x="400.862" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="389.0" x="405.184" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="408.548" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="410.654" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="412.843" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="415.723" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="421.022" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="426.265" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="500.0" x="428.454" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">+</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="432.776" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="613.0" x="434.965" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="709.0" x="440.264" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="333.0" x="446.392" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONI+PalatinoLinotype" svgx:width="250.0" x="449.272" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="normal">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNONK+PalatinoLinotype,Bold" svgx:width="250.0" x="451.377" y="1076.714" font-size="8.64" font-family="TimesNewRoman" font-weight="bold"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNPHL+TimesNewRoman" svgx:width="250.0" x="84.811" y="1096.586" font-size="11.52" font-family="TimesNewRoman" font-weight="normal"> </text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath45)" svgx:fontName="AHNOMG+PalatinoLinotype,Italic" svgx:width="250.0" x="223.051" y="1096.586" font-size="9.619" font-family="TimesNewRoman" font-weight="normal" font-style="italic"> </text>
+ <image transform="matrix(0.5568613069612383,-0.0,-0.0,0.5250695052951997,122.76907348632812,429.4635009765625)" xlink:href="fulltext.p19.i3.png" x="0.0" y="0.0" width="626.0" height="570.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <image transform="matrix(0.5463874231446972,-0.0,-0.0,0.5260934997256825,122.76907348632812,760.60595703125)" xlink:href="fulltext.p19.i4.png" x="0.0" y="0.0" width="638.0" height="569.0" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="556.0" x="117.267" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">F</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="333.0" x="122.252" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="556.0" x="125.238" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="611.0" x="130.223" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="389.0" x="135.702" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="139.19" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="145.915" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="500.0" x="150.398" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="LURJAX+URWPalladioL-Bold" svgx:width="250.0" x="154.881" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="bold">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="525.0" x="159.902" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">S</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="603.0" x="164.609" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="553.0" x="170.016" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">b</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="174.975" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="395.0" x="179.96" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">r</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="183.34" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="603.0" x="188.236" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">u</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="601.0" x="193.643" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="424.0" x="199.031" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="205.075" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="209.97" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="215.198" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="220.183" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="224.478" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="229.696" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="234.592" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="237.515" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">y</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="601.0" x="242.501" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">p</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="247.889" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="250.499" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="556.0" x="255.717" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">g</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="262.944" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="270.861" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="275.156" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="278.079" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">h</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="283.298" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="288.193" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="424.0" x="293.672" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="299.715" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="304.611" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">f</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="309.838" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="315.335" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="319.818" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">2</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="324.301" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">3</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="328.784" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">8</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="333.267" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="341.866" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="347.345" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="352.24" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="360.158" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">i</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="362.767" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="500.0" x="367.985" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">a</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="582.0" x="372.469" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">n</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="326.0" x="377.687" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">t</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="883.0" x="382.852" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">m</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="546.0" x="390.769" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">o</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="611.0" x="395.665" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">d</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="479.0" x="401.143" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">e</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="291.0" x="405.438" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">l</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="410.289" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">(</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="413.275" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="419.632" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="606.0" x="428.231" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">+</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="435.906" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="709.0" x="441.402" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">C</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="333.0" x="447.759" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">)</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="500.0" x="452.983" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">v</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="389.0" x="457.466" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">s</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="ZZPUBO+URWPalladioL-Ital" svgx:width="250.0" x="460.954" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal" font-style="italic">.</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="465.437" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="613.0" x="470.933" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">T</text>
+ <text stroke="none" fill="#000000" clip-path="url(#clipPath2)" svgx:fontName="GCBTVK+URWPalladioL-Roma" svgx:width="250.0" x="475.766" y="749.926" font-size="8.966" font-family="Helvetica" font-weight="normal">.</text>
+</svg>

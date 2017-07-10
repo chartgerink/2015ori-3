@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svgx="http://www.xml-cml.org/schema/svgx"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg10776"
+   version="1.1"
+   stroke-width="0.0"
+   stroke="none"
+   height="800.0"
+   width="600.0">
+  <metadata
+     id="metadata10780">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <clipPath
+       id="clipPath54">
+      <path
+         id="path2"
+         d="M55.4 59.809 L55.4 60.038 L70.204 60.038 L70.204 59.809 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath58">
+      <path
+         id="path5"
+         d="M55.4 61.012 L55.4 61.24 L70.204 61.24 L70.204 61.012 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <path
+         id="path8"
+         d="M55.4 52.598 L55.4 52.827 L70.204 52.827 L70.204 52.598 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath70">
+      <path
+         id="path11"
+         d="M55.4 64.617 L55.4 64.846 L70.204 64.846 L70.204 64.617 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath94">
+      <path
+         id="path14"
+         d="M56.108 46.348 C56.015 46.401 55.923 46.456 55.832 46.513 L55.832 46.513 L55.832 70.794 L56.108 70.794 L56.108 46.348 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath22">
+      <path
+         id="path17"
+         d="M55.4 47.791 L55.4 48.02 L70.204 48.02 L70.204 47.791 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath81">
+      <path
+         id="path20"
+         d="M55.4 67.817 L55.4 68.045 L59.814 68.045 L60.096 67.817 ZM65.515 67.817 L65.797 68.045 L70.204 68.045 L70.204 67.817 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath59">
+      <path
+         id="path23"
+         d="M55.4 61.207 L55.4 61.435 L70.204 61.435 L70.204 61.207 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath86">
+      <path
+         id="path26"
+         d="M55.4 69.424 L55.4 69.652 L57.823 69.652 L58.105 69.424 ZM67.503 69.424 L67.785 69.652 L70.204 69.652 L70.204 69.424 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath45">
+      <path
+         id="path29"
+         d="M55.4 57.0 L55.4 57.229 L70.204 57.229 L70.204 57.0 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath57">
+      <path
+         id="path32"
+         d="M55.4 60.606 L55.4 60.835 L70.204 60.835 L70.204 60.606 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath52">
+      <path
+         id="path35"
+         d="M55.4 59.209 L55.4 59.437 L70.204 59.437 L70.204 59.209 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath73">
+      <path
+         id="path38"
+         d="M55.4 65.414 L55.4 65.642 L70.204 65.642 L70.204 65.414 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath62">
+      <path
+         id="path41"
+         d="M55.4 62.213 L55.4 62.439 L55.4 62.442 L70.204 62.442 L70.204 62.439 L70.204 62.213 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath17">
+      <path
+         id="path44"
+         d="M55.4 49.79 L55.4 50.018 L70.204 50.018 L70.204 49.79 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath87">
+      <path
+         id="path47"
+         d="M55.4 69.62 L55.4 69.847 L57.581 69.847 L57.862 69.62 ZM67.746 69.62 L68.027 69.847 L70.204 69.847 L70.204 69.62 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath37">
+      <path
+         id="path50"
+         d="M55.4 54.597 L55.4 54.826 L70.204 54.826 L70.204 54.597 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath26">
+      <path
+         id="path53"
+         d="M55.71 46.589 L55.71 46.589 C55.606 46.655 55.503 46.722 55.4 46.792 L55.4 46.818 L69.987 46.818 C69.869 46.74 69.75 46.663 69.63 46.589 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath82">
+      <path
+         id="path56"
+         d="M55.4 68.221 L55.4 68.451 L59.311 68.451 L59.596 68.221 ZM66.015 68.221 L66.3 68.451 L70.204 68.451 L70.204 68.221 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath92">
+      <path
+         id="path59"
+         d="M55.4 71.227 L55.4 71.456 L55.587 71.456 L55.871 71.227 ZM69.734 71.227 L70.017 71.456 L70.204 71.456 L70.204 71.227 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath48">
+      <path
+         id="path62"
+         d="M55.4 58.007 L55.4 58.236 L70.204 58.236 L70.204 58.007 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath20">
+      <path
+         id="path65"
+         d="M55.4 48.392 L55.4 48.621 L70.204 48.621 L70.204 48.392 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath9">
+      <path
+         id="path68"
+         d="M55.4 52.193 L55.4 52.422 L70.204 52.422 L70.204 52.193 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath28">
+      <path
+         id="path71"
+         d="M56.779 45.988 L56.779 45.988 C56.63 46.062 56.484 46.138 56.34 46.217 L68.988 46.217 C68.843 46.138 68.696 46.062 68.548 45.988 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath35">
+      <path
+         id="path74"
+         d="M55.4 53.996 L55.4 54.225 L70.204 54.225 L70.204 53.996 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath30">
+      <path
+         id="path77"
+         d="M58.201 45.387 C58.0 45.458 57.801 45.535 57.603 45.616 L67.729 45.616 C67.534 45.535 67.337 45.459 67.137 45.387 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath69">
+      <path
+         id="path80"
+         d="M55.4 64.211 L55.4 64.44 L70.204 64.44 L70.204 64.211 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath41">
+      <path
+         id="path83"
+         d="M55.4 55.799 L55.4 56.028 L70.204 56.028 L70.204 55.799 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath84">
+      <path
+         id="path86"
+         d="M55.4 68.823 L55.4 69.052 L58.566 69.052 L58.85 68.823 ZM66.76 68.823 L67.043 69.052 L70.204 69.052 L70.204 68.823 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath72">
+      <path
+         id="path89"
+         d="M55.4 65.217 L55.4 65.447 L70.204 65.447 L70.204 65.217 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath8">
+      <path
+         id="path92"
+         d="M55.4 51.997 L55.4 52.226 L70.204 52.226 L70.204 51.997 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath67">
+      <path
+         id="path95"
+         d="M55.4 63.611 L55.4 63.839 L70.204 63.839 L70.204 63.611 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath33">
+      <path
+         id="path98"
+         d="M59.56 44.983 C59.282 45.05 59.005 45.126 58.73 45.211 L66.614 45.211 C66.409 45.147 66.202 45.087 65.993 45.033 C65.927 45.016 65.861 44.999 65.795 44.983 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath68">
+      <path
+         id="path101"
+         d="M55.4 64.016 L55.4 64.245 L70.204 64.245 L70.204 64.016 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath53">
+      <path
+         id="path104"
+         d="M55.4 59.404 L55.4 59.632 L70.204 59.632 L70.204 59.404 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath46">
+      <path
+         id="path107"
+         d="M55.4 57.405 L55.4 57.635 L70.204 57.635 L70.204 57.405 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath74">
+      <path
+         id="path110"
+         d="M55.4 65.817 L55.4 66.047 L62.29 66.047 L62.575 65.817 ZM63.041 65.817 L63.326 66.047 L70.204 66.047 L70.204 65.817 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath76">
+      <path
+         id="path113"
+         d="M55.4 66.419 L55.4 66.649 L61.544 66.649 L61.829 66.419 ZM63.786 66.419 L64.069 66.649 L70.204 66.649 L70.204 66.419 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath78">
+      <path
+         id="path116"
+         d="M55.4 67.02 L55.4 67.249 L60.8 67.249 L61.084 67.02 ZM64.529 67.02 L64.813 67.249 L70.204 67.249 L70.204 67.02 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath97">
+      <path
+         id="path119"
+         d="M69.354 46.423 L69.354 70.725 L69.629 70.725 L69.629 46.589 L69.629 46.589 C69.538 46.532 69.446 46.477 69.354 46.423 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath89">
+      <path
+         id="path122"
+         d="M55.4 70.22 L55.4 70.449 L56.835 70.449 L57.119 70.22 ZM68.488 70.22 L68.771 70.449 L70.204 70.449 L70.204 70.22 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath44">
+      <path
+         id="path125"
+         d="M55.4 56.804 L55.4 57.034 L70.204 57.034 L70.204 56.804 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath34">
+      <path
+         id="path128"
+         d="M55.4 53.8 L55.4 54.029 L70.204 54.029 L70.204 53.8 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath55">
+      <path
+         id="path131"
+         d="M55.4 60.005 L55.4 60.234 L70.204 60.234 L70.204 60.005 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath47">
+      <path
+         id="path134"
+         d="M55.4 57.602 L55.4 57.83 L70.204 57.83 L70.204 57.602 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath49">
+      <path
+         id="path137"
+         d="M55.4 58.202 L55.4 58.431 L70.204 58.431 L70.204 58.202 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath13">
+      <path
+         id="path140"
+         d="M55.4 50.992 L55.4 51.221 L70.204 51.221 L70.204 50.992 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath95">
+      <path
+         id="path143"
+         d="M69.422 46.463 L69.422 70.794 L69.697 70.794 L69.697 46.631 L69.697 46.631 C69.606 46.574 69.515 46.518 69.422 46.463 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath18">
+      <path
+         id="path146"
+         d="M55.4 48.992 L55.4 49.221 L70.204 49.221 L70.204 48.992 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath83">
+      <path
+         id="path149"
+         d="M55.4 68.418 L55.4 68.646 L59.069 68.646 L59.352 68.418 ZM66.259 68.418 L66.541 68.646 L70.204 68.646 L70.204 68.418 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath42">
+      <path
+         id="path152"
+         d="M55.4 56.204 L55.4 56.432 L70.204 56.432 L70.204 56.204 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath19">
+      <path
+         id="path155"
+         d="M55.4 49.189 L55.4 49.418 L70.204 49.418 L70.204 49.189 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath12">
+      <path
+         id="path158"
+         d="M55.4 50.795 L55.4 51.024 L70.204 51.024 L70.204 50.795 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath90">
+      <path
+         id="path161"
+         d="M55.4 70.625 L55.4 70.854 L56.333 70.854 L56.617 70.625 ZM68.989 70.625 L69.272 70.854 L70.204 70.854 L70.204 70.625 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath43">
+      <path
+         id="path164"
+         d="M55.4 56.4 L55.4 56.629 L70.204 56.629 L70.204 56.4 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath29">
+      <path
+         id="path167"
+         d="M56.401 46.184 C56.264 46.258 56.13 46.334 55.997 46.413 L69.337 46.413 C69.202 46.334 69.065 46.258 68.927 46.184 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath40">
+      <path
+         id="path170"
+         d="M55.4 55.603 L55.4 55.832 L70.204 55.832 L70.204 55.603 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath80">
+      <path
+         id="path173"
+         d="M55.4 67.621 L55.4 67.85 L60.056 67.85 L60.339 67.621 ZM65.272 67.621 L65.556 67.85 L70.204 67.85 L70.204 67.621 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath2">
+      <path
+         id="path176"
+         d="M0.0 0.0 L0.0 793.0 L595.0 793.0 L595.0 0.0 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath64">
+      <path
+         id="path179"
+         d="M55.4 62.813 L55.4 63.043 L70.204 63.043 L70.204 62.813 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath11">
+      <path
+         id="path182"
+         d="M55.4 51.592 L55.4 51.821 L70.204 51.821 L70.204 51.592 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath5">
+      <path
+         id="path185"
+         d="M55.4 53.395 L55.4 53.624 L70.204 53.624 L70.204 53.395 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath23">
+      <path
+         id="path188"
+         d="M55.4 47.987 L55.4 48.216 L70.204 48.216 L70.204 47.987 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath77">
+      <path
+         id="path191"
+         d="M55.4 66.615 L55.4 66.843 L61.303 66.843 L61.586 66.615 ZM64.028 66.615 L64.31 66.843 L70.204 66.843 L70.204 66.615 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath24">
+      <path
+         id="path194"
+         d="M55.4 47.19 L55.4 47.419 L70.204 47.419 L70.204 47.19 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath75">
+      <path
+         id="path197"
+         d="M55.4 66.015 L55.4 66.185 L55.4 66.243 L62.047 66.243 L62.33 66.015 ZM63.286 66.015 L63.568 66.243 L70.204 66.243 L70.204 66.185 L70.204 66.015 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath66">
+      <path
+         id="path200"
+         d="M55.4 63.415 L55.4 63.645 L70.204 63.645 L70.204 63.415 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath60">
+      <path
+         id="path203"
+         d="M55.4 61.612 L55.4 61.841 L70.204 61.841 L70.204 61.612 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath32">
+      <path
+         id="path206"
+         d="M60.537 44.786 C60.166 44.847 59.797 44.923 59.43 45.015 L65.923 45.015 C65.563 44.923 65.197 44.847 64.831 44.786 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath85">
+      <path
+         id="path209"
+         d="M55.4 69.018 L55.4 69.247 L58.324 69.247 L58.608 69.018 ZM67.001 69.018 L67.284 69.247 L70.204 69.247 L70.204 69.018 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath88">
+      <path
+         id="path212"
+         d="M55.4 70.025 L55.4 70.253 L57.078 70.253 L57.36 70.025 ZM68.247 70.025 L68.529 70.253 L70.204 70.253 L70.204 70.025 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath96">
+      <path
+         id="path215"
+         d="M56.039 46.388 C55.946 46.443 55.854 46.498 55.763 46.556 L55.763 70.725 L56.039 70.725 L56.039 46.388 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath31">
+      <path
+         id="path218"
+         d="M57.684 45.583 C57.505 45.655 57.326 45.732 57.15 45.812 L68.179 45.812 C68.004 45.732 67.828 45.656 67.649 45.583 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath93">
+      <path
+         id="path221"
+         d="M55.4 71.422 L55.4 71.607 L55.629 71.422 ZM69.975 71.422 L70.204 71.607 L70.204 71.422 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath25">
+      <path
+         id="path224"
+         d="M55.4 47.386 L55.4 47.615 L70.204 47.615 L70.204 47.386 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath61">
+      <path
+         id="path227"
+         d="M55.4 61.808 L55.4 62.036 L70.204 62.036 L70.204 61.808 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <path
+         id="path230"
+         d="M55.4 50.195 L55.4 50.423 L70.204 50.423 L70.204 50.195 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath27">
+      <path
+         id="path233"
+         d="M55.41 46.785 C55.407 46.787 55.403 46.79 55.4 46.792 L55.4 47.014 L70.204 47.014 L70.204 46.965 C70.116 46.904 70.027 46.844 69.937 46.785 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath1">
+      <path
+         id="path236"
+         d="M0.0 0.0 L595.0 0.0 L595.0 793.0 L0.0 793.0 L0.0 0.0 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath91">
+      <path
+         id="path239"
+         d="M55.4 70.821 L55.4 71.05 L56.09 71.05 L56.374 70.821 ZM69.232 70.821 L69.515 71.05 L70.204 71.05 L70.204 70.821 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath36">
+      <path
+         id="path242"
+         d="M55.4 54.401 L55.4 54.63 L70.204 54.63 L70.204 54.401 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath63">
+      <path
+         id="path245"
+         d="M55.4 62.409 L55.4 62.439 L55.4 62.637 L70.204 62.637 L70.204 62.439 L70.204 62.409 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath65">
+      <path
+         id="path248"
+         d="M55.4 63.01 L55.4 63.238 L70.204 63.238 L70.204 63.01 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath7">
+      <path
+         id="path251"
+         d="M55.4 52.795 L55.4 53.023 L70.204 53.023 L70.204 52.795 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath79">
+      <path
+         id="path254"
+         d="M55.4 67.216 L55.4 67.444 L60.559 67.444 L60.841 67.216 ZM64.772 67.216 L65.054 67.444 L70.204 67.444 L70.204 67.216 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath21">
+      <path
+         id="path257"
+         d="M55.4 48.588 L55.4 48.817 L70.204 48.817 L70.204 48.588 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath71">
+      <path
+         id="path260"
+         d="M55.4 64.812 L55.4 65.04 L70.204 65.04 L70.204 64.812 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath3">
+      <path
+         id="path263"
+         d="M37.559 36.149 L37.559 86.549 L87.959 86.549 L87.959 36.149 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath51">
+      <path
+         id="path266"
+         d="M55.4 58.803 L55.4 59.032 L70.204 59.032 L70.204 58.803 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath39">
+      <path
+         id="path269"
+         d="M55.4 55.198 L55.4 55.427 L70.204 55.427 L70.204 55.198 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath56">
+      <path
+         id="path272"
+         d="M55.4 60.41 L55.4 60.639 L70.204 60.639 L70.204 60.41 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath50">
+      <path
+         id="path275"
+         d="M55.4 58.608 L55.4 58.837 L70.204 58.837 L70.204 58.608 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath15">
+      <path
+         id="path278"
+         d="M55.4 50.391 L55.4 50.619 L70.204 50.619 L70.204 50.391 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <path
+         id="path281"
+         d="M55.4 51.396 L55.4 51.625 L70.204 51.625 L70.204 51.396 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath16">
+      <path
+         id="path284"
+         d="M55.4 49.593 L55.4 49.822 L70.204 49.822 L70.204 49.593 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath38">
+      <path
+         id="path287"
+         d="M55.4 55.002 L55.4 55.23 L70.204 55.23 L70.204 55.002 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath4">
+      <path
+         id="path290"
+         d="M55.4 53.199 L55.4 53.428 L70.204 53.428 L70.204 53.199 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+  </defs>
+  <path
+     id="path10450"
+     d="M87.952 365.232 L87.952 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10452"
+     d="M292.346 460.884 L87.968 460.884 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <text
+     id="text10454"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="432.894"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-369.32531,496.46351)"
+     svgx:width="500.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">S</text>
+  <text
+     id="text10456"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="428.974"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-365.4053,492.5435)"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">t</text>
+  <text
+     id="text10458"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="426.83"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-363.26128,490.39948)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10460"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="423.358"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-359.78927,486.92747)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">n</text>
+  <text
+     id="text10462"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="419.886"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-356.31725,483.45545)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10464"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="416.414"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-352.84524,479.98344)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10466"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="412.942"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-349.37322,476.51142)"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10468"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="410.798"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-347.22921,474.36741)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10472"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="405.63"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-342.06118,469.19938)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">e</text>
+  <text
+     id="text10474"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="402.158"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-338.58916,465.72736)"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10476"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="400.014"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-336.44515,463.58335)"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10478"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="397.87"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-334.30114,461.43934)"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10480"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="394.398"
+     x="63.569"
+     transform="matrix(0.0,-1.0,1.0,0.0,-330.82912,457.96732)"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10482"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="368.187"
+     x="73.367"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10484"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="368.187"
+     x="76.839"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10486"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="368.187"
+     x="78.535"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10490"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="392.187"
+     x="73.367"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10492"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="392.187"
+     x="76.839"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10494"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="392.187"
+     x="78.535"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">2</text>
+  <text
+     id="text10498"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="416.187"
+     x="73.367"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10500"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="416.187"
+     x="76.839"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10502"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="416.187"
+     x="78.535"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">4</text>
+  <text
+     id="text10506"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="440.187"
+     x="73.367"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10508"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="440.187"
+     x="76.839"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10510"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="440.187"
+     x="78.535"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">6</text>
+  <text
+     id="text10514"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="464.187"
+     x="73.367"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10516"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="464.187"
+     x="76.839"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10518"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="464.187"
+     x="78.535"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">8</text>
+  <path
+     id="path10520"
+     d="M87.985 365.357 L90.945 365.357 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10522"
+     d="M87.985 389.201 L90.945 389.201 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10524"
+     d="M87.985 413.404 L90.945 413.404 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10526"
+     d="M87.985 437.215 L90.945 437.215 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10528"
+     d="M113.605 460.776 L113.605 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10530"
+     d="M139.259 460.776 L139.259 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10532"
+     d="M164.771 460.776 L164.771 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10534"
+     d="M190.141 460.776 L190.141 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10536"
+     d="M215.653 460.776 L215.653 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10538"
+     d="M241.448 460.776 L241.448 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10540"
+     d="M266.676 460.776 L266.676 463.736 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10542"
+     d="M292.33 460.759 L292.33 463.719 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <text
+     id="text10544"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="172.656"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">L</text>
+  <text
+     id="text10546"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="175.688"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10548"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="179.16"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">g</text>
+  <text
+     id="text10552"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="184.328"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10554"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="187.8"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10556"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="191.272"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10558"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="194.744"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">s</text>
+  <text
+     id="text10562"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="199.472"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10564"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="201.616"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10566"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="205.088"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">t</text>
+  <text
+     id="text10568"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="207.232"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">i</text>
+  <text
+     id="text10570"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="489.51"
+     x="208.928"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10572"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="127.28"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">F</text>
+  <text
+     id="text10574"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="130.312"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">u</text>
+  <text
+     id="text10576"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="133.784"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">n</text>
+  <text
+     id="text10578"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="137.256"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">n</text>
+  <text
+     id="text10580"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="140.728"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">e</text>
+  <text
+     id="text10582"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="144.2"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">l</text>
+  <text
+     id="text10586"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="147.592"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">p</text>
+  <text
+     id="text10588"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="151.064"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">l</text>
+  <text
+     id="text10590"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="152.76"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10592"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="156.232"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">t</text>
+  <text
+     id="text10596"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="160.072"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10598"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="163.544"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">f</text>
+  <text
+     id="text10602"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="167.384"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">s</text>
+  <text
+     id="text10604"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="170.416"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">t</text>
+  <text
+     id="text10606"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="172.56"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10608"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="176.032"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">n</text>
+  <text
+     id="text10610"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="179.504"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10612"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="182.976"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10614"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="186.448"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10616"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="188.592"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10620"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="193.76"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">e</text>
+  <text
+     id="text10622"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="197.232"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10624"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="199.376"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10626"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="201.52"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10628"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="204.992"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10632"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="208.832"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">b</text>
+  <text
+     id="text10634"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="212.304"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">y</text>
+  <text
+     id="text10638"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="217.032"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">l</text>
+  <text
+     id="text10640"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="218.728"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10642"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="222.2"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">g</text>
+  <text
+     id="text10646"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="227.368"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10648"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="230.84"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10650"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="234.312"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">d</text>
+  <text
+     id="text10652"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="237.784"
+     svgx:width="389.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">s</text>
+  <text
+     id="text10656"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="242.512"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">r</text>
+  <text
+     id="text10658"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="244.656"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">a</text>
+  <text
+     id="text10660"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="248.128"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">t</text>
+  <text
+     id="text10662"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="250.272"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">i</text>
+  <text
+     id="text10664"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="359.561"
+     x="251.968"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">o</text>
+  <text
+     id="text10666"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="83.575"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">-</text>
+  <text
+     id="text10668"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="85.719"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">2</text>
+  <text
+     id="text10670"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="89.191"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10672"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="90.887"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10676"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="108.183"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">-</text>
+  <text
+     id="text10678"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="110.327"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">1</text>
+  <text
+     id="text10680"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="113.799"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10682"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="115.495"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">5</text>
+  <text
+     id="text10686"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="134.183"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">-</text>
+  <text
+     id="text10688"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="136.327"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">1</text>
+  <text
+     id="text10690"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="139.799"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10692"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="141.495"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10696"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="159.183"
+     svgx:width="278.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">-</text>
+  <text
+     id="text10698"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="161.327"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10700"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="164.799"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10702"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="166.495"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">5</text>
+  <text
+     id="text10706"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="186.255"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10708"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="189.727"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10710"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="191.423"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10714"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="211.255"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10716"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="214.727"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10718"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="216.423"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">5</text>
+  <text
+     id="text10722"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="237.255"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">1</text>
+  <text
+     id="text10724"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="240.727"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10726"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="242.423"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <text
+     id="text10730"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="262.255"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">1</text>
+  <text
+     id="text10732"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="265.727"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10734"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="267.423"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">5</text>
+  <text
+     id="text10738"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="286.695"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">2</text>
+  <text
+     id="text10740"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="290.167"
+     svgx:width="222.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">.</text>
+  <text
+     id="text10742"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="8.0"
+     y="475.478"
+     x="291.863"
+     svgx:width="444.0"
+     svgx:fontName="KZWIWW+UniversLTStd-LightCn"
+     clip-path="url(#clipPath1)"
+     fill="#000000"
+     stroke="none">0</text>
+  <path
+     id="path10744"
+     d="M106.535 460.759 L187.135 364.859 L266.834 460.901 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10746"
+     d="M187.135 365.143 L187.135 460.901 "
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+  <path
+     id="path10748"
+     d="M141.81 437.357 C142.28 437.357 142.66 436.976 142.66 436.506 C142.66 436.037 142.28 435.656 141.81 435.656 C141.34 435.656 140.96 436.037 140.96 436.506 C140.96 436.976 141.34 437.357 141.81 437.357 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10750"
+     d="M144.786 452.806 C145.256 452.806 145.636 452.425 145.636 451.955 C145.636 451.486 145.256 451.105 144.786 451.105 C144.316 451.105 143.936 451.486 143.936 451.955 C143.936 452.425 144.316 452.806 144.786 452.806 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10752"
+     d="M150.914 399.798 C151.384 399.798 151.764 399.417 151.764 398.947 C151.764 398.478 151.384 398.097 150.914 398.097 C150.444 398.097 150.064 398.478 150.064 398.947 C150.064 399.417 150.444 399.798 150.914 399.798 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10754"
+     d="M156.692 397.247 C157.162 397.247 157.542 396.866 157.542 396.396 C157.542 395.927 157.162 395.546 156.692 395.546 C156.222 395.546 155.842 395.927 155.842 396.396 C155.842 396.866 156.222 397.247 156.692 397.247 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10756"
+     d="M189.715 381.514 C190.186 381.514 190.566 381.133 190.566 380.663 C190.566 380.194 190.186 379.813 189.715 379.813 C189.245 379.813 188.865 380.194 188.865 380.663 C188.865 381.133 189.245 381.514 189.715 381.514 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10758"
+     d="M191.275 380.948 C191.745 380.948 192.125 380.567 192.125 380.097 C192.125 379.628 191.745 379.247 191.275 379.247 C190.805 379.247 190.425 379.628 190.425 380.097 C190.425 380.567 190.805 380.948 191.275 380.948 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10760"
+     d="M197.227 386.05 C197.697 386.05 198.077 385.669 198.077 385.199 C198.077 384.73 197.697 384.349 197.227 384.349 C196.757 384.349 196.377 384.73 196.377 385.199 C196.377 385.669 196.757 386.05 197.227 386.05 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10762"
+     d="M210.442 401.215 C210.912 401.215 211.292 400.834 211.292 400.364 C211.292 399.895 210.912 399.514 210.442 399.514 C209.972 399.514 209.592 399.895 209.592 400.364 C209.592 400.834 209.972 401.215 210.442 401.215 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10764"
+     d="M197.086 406.46 C197.556 406.46 197.936 406.078 197.936 405.608 C197.936 405.139 197.556 404.759 197.086 404.759 C196.616 404.759 196.236 405.139 196.236 405.608 C196.236 406.078 196.616 406.46 197.086 406.46 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10766"
+     d="M197.936 413.971 C198.406 413.971 198.786 413.59 198.786 413.12 C198.786 412.651 198.406 412.27 197.936 412.27 C197.466 412.27 197.086 412.651 197.086 413.12 C197.086 413.59 197.466 413.971 197.936 413.971 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10768"
+     d="M215.653 419.499 C216.123 419.499 216.503 419.117 216.503 418.647 C216.503 418.178 216.123 417.798 215.653 417.798 C215.183 417.798 214.803 418.178 214.803 418.647 C214.803 419.117 215.183 419.499 215.653 419.499 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10770"
+     d="M211.859 432.68 C212.329 432.68 212.709 432.299 212.709 431.829 C212.709 431.36 212.329 430.979 211.859 430.979 C211.389 430.979 211.009 431.36 211.009 431.829 C211.009 432.299 211.389 432.68 211.859 432.68 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath2)"
+     fill="none" />
+  <path
+     id="path10772"
+     d="M174.864 463.724 L186.585 462.445 L197.94 463.582 L186.585 464.719 Z"
+     stroke-width="0.25"
+     fill="#ffffff"
+     clip-path="url(#clipPath1)"
+     stroke="black" />
+  <path
+     id="path10774"
+     d="M174.864 463.724 L186.585 462.445 L197.94 463.582 L186.585 464.719 L174.864 463.724 Z"
+     stroke-width="0.25"
+     stroke="#000000"
+     clip-path="url(#clipPath1)"
+     fill="none" />
+</svg>

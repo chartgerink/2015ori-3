@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svgx="http://www.xml-cml.org/schema/svgx"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg6663"
+   version="1.1"
+   stroke-width="0.0"
+   stroke="none"
+   height="800.0"
+   width="600.0">
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <clipPath
+       id="clipPath8">
+      <path
+         id="path2"
+         d="M301.812 244.849 L301.812 395.441 L513.809 395.441 L513.809 244.849 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath3">
+      <path
+         id="path5"
+         d="M489.383 33.315 L489.383 39.268 L544.252 39.268 L544.252 33.315 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <path
+         id="path8"
+         d="M301.812 73.505 L301.812 232.983 L513.809 232.983 L513.809 73.505 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath4">
+      <path
+         id="path11"
+         d="M489.383 33.315 L489.383 39.268 L544.251 39.268 L544.251 33.315 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath5">
+      <path
+         id="path14"
+         d="M87.385 73.505 L87.385 232.983 L297.322 232.983 L297.322 73.505 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath2">
+      <path
+         id="path17"
+         d="M0.0 0.0 L595.0 0.0 L595.0 793.0 L0.0 793.0 L0.0 0.0 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath7">
+      <path
+         id="path20"
+         d="M87.385 244.849 L87.385 395.441 L297.322 395.441 L297.322 244.849 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+    <clipPath
+       id="clipPath1">
+      <path
+         id="path23"
+         d="M51.024 33.315 L51.024 39.268 L105.893 39.268 L105.893 33.315 Z"
+         fill="none"
+         stroke-width="0.5"
+         stroke="black" />
+    </clipPath>
+  </defs>
+  <path
+     id="path5511"
+     d="M324.217 88.622 L506.564 88.622 L506.564 209.82 L324.217 209.82 Z"
+     stroke-width="0.0"
+     fill="#ffffff"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5513"
+     d="M324.217 88.622 L324.217 88.492 L506.694 88.492 L506.694 209.949 L324.087 209.949 L324.087 88.492 L324.217 88.492 L324.217 88.622 L324.347 88.622 L324.347 209.69 L506.434 209.69 L506.434 88.752 L324.217 88.752 L324.217 88.622 L324.347 88.622 Z"
+     stroke-width="0.0"
+     fill="#ffffff"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5515"
+     d="M323.958 92.385 L506.824 92.385 L506.824 91.866 L323.958 91.866 Z"
+     stroke-width="0.0"
+     fill="#edfbf7"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5517"
+     d="M323.958 120.933 L506.824 120.933 L506.824 120.414 L323.958 120.414 Z"
+     stroke-width="0.0"
+     fill="#edfbf7"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5519"
+     d="M323.958 149.48 L506.824 149.48 L506.824 148.961 L323.958 148.961 Z"
+     stroke-width="0.0"
+     fill="#edfbf7"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5521"
+     d="M323.958 178.158 L506.824 178.158 L506.824 177.639 L323.958 177.639 Z"
+     stroke-width="0.0"
+     fill="#edfbf7"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5523"
+     d="M323.958 206.706 L506.824 206.706 L506.824 206.187 L323.958 206.187 Z"
+     stroke-width="0.0"
+     fill="#edfbf7"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <path
+     id="path5525"
+     d="M399.858 181.272 C399.858 180.191 400.7 179.326 401.752 179.326 C402.804 179.326 403.647 180.191 403.647 181.272 C403.647 182.354 402.804 183.218 401.752 183.218 C400.7 183.218 399.858 182.354 399.858 181.272 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5527"
+     d="M399.858 181.272 L399.598 181.272 C399.601 180.054 400.552 179.068 401.752 179.066 C402.951 179.068 403.904 180.054 403.906 181.272 C403.904 182.491 402.951 183.476 401.752 183.478 C400.552 183.476 399.601 182.49 399.598 181.272 L399.858 181.272 L400.118 181.272 C400.119 182.217 400.847 182.959 401.752 182.959 C402.656 182.959 403.385 182.217 403.387 181.272 C403.385 180.328 402.656 179.585 401.752 179.585 C400.847 179.585 400.119 180.328 400.118 181.272 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5529"
+     d="M460.219 164.662 C460.219 163.581 461.062 162.716 462.113 162.716 C463.166 162.716 464.008 163.581 464.008 164.662 C464.008 165.744 463.166 166.608 462.113 166.608 C461.062 166.608 460.219 165.744 460.219 164.662 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5531"
+     d="M460.219 164.662 L459.959 164.662 C459.962 163.444 460.914 162.458 462.113 162.456 C463.313 162.458 464.265 163.444 464.267 164.662 C464.265 165.88 463.313 166.866 462.113 166.868 C460.914 166.866 459.962 165.88 459.959 164.662 L460.219 164.662 L460.479 164.662 C460.48 165.607 461.209 166.349 462.113 166.349 C463.018 166.349 463.746 165.607 463.748 164.662 C463.746 163.717 463.018 162.975 462.113 162.975 C461.209 162.975 460.48 163.718 460.479 164.662 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5533"
+     d="M418.927 185.035 C418.927 183.953 419.769 183.089 420.821 183.089 C421.873 183.089 422.715 183.953 422.715 185.035 C422.715 186.116 421.873 186.981 420.821 186.981 C419.769 186.981 418.927 186.116 418.927 185.035 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5535"
+     d="M418.927 185.035 L418.667 185.035 C418.67 183.817 419.621 182.831 420.821 182.829 C422.02 182.831 422.972 183.817 422.974 185.035 C422.972 186.253 422.021 187.239 420.821 187.241 C419.621 187.239 418.67 186.253 418.667 185.035 L418.927 185.035 L419.187 185.035 C419.188 185.98 419.916 186.722 420.821 186.722 C421.725 186.722 422.454 185.98 422.455 185.035 C422.454 184.09 421.725 183.348 420.821 183.348 C419.916 183.348 419.188 184.09 419.187 185.035 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5537"
+     d="M397.332 188.668 C397.332 187.587 398.146 186.722 399.163 186.722 C400.18 186.722 400.994 187.587 400.994 188.668 C400.994 189.749 400.18 190.614 399.163 190.614 C398.146 190.614 397.332 189.749 397.332 188.668 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5539"
+     d="M397.332 188.668 L397.072 188.668 C397.076 187.457 397.991 186.463 399.163 186.462 C400.335 186.463 401.253 187.457 401.254 188.668 C401.253 189.879 400.335 190.873 399.163 190.874 C397.991 190.873 397.076 189.879 397.072 188.668 L397.332 188.668 L397.592 188.668 C397.594 189.619 398.3 190.353 399.163 190.355 C400.026 190.353 400.732 189.619 400.736 188.668 C400.732 187.717 400.026 186.983 399.163 186.981 C398.3 186.983 397.594 187.717 397.592 188.668 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5541"
+     d="M463.124 168.426 C463.124 167.344 463.938 166.48 464.955 166.48 C465.972 166.48 466.786 167.344 466.786 168.426 C466.786 169.507 465.972 170.372 464.955 170.372 C463.938 170.372 463.124 169.507 463.124 168.426 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5543"
+     d="M463.124 168.426 L462.864 168.426 C462.866 167.214 463.783 166.221 464.955 166.22 C466.127 166.221 467.043 167.214 467.045 168.426 C467.043 169.637 466.127 170.631 464.955 170.632 C463.783 170.631 462.866 169.637 462.864 168.426 L463.124 168.426 L463.384 168.426 C463.386 169.377 464.092 170.111 464.955 170.113 C465.818 170.111 466.524 169.377 466.526 168.426 C466.524 167.474 465.818 166.741 464.955 166.739 C464.092 166.741 463.386 167.474 463.384 168.426 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5545"
+     d="M325.606 155.579 C325.606 154.498 326.448 153.633 327.5 153.633 C328.553 153.633 329.395 154.498 329.395 155.579 C329.395 156.66 328.553 157.525 327.5 157.525 C326.448 157.525 325.606 156.66 325.606 155.579 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5547"
+     d="M325.606 155.579 L325.346 155.579 C325.349 154.361 326.3 153.375 327.5 153.373 C328.7 153.375 329.652 154.361 329.654 155.579 C329.652 156.797 328.7 157.783 327.5 157.785 C326.3 157.783 325.349 156.797 325.346 155.579 L325.606 155.579 L325.866 155.579 C325.867 156.523 326.595 157.266 327.5 157.266 C328.405 157.266 329.133 156.523 329.135 155.579 C329.133 154.635 328.405 153.892 327.5 153.892 C326.595 153.892 325.867 154.635 325.866 155.579 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5549"
+     d="M394.049 172.318 C394.049 171.236 394.863 170.372 395.88 170.372 C396.898 170.372 397.711 171.236 397.711 172.318 C397.711 173.399 396.898 174.264 395.88 174.264 C394.863 174.264 394.049 173.399 394.049 172.318 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5551"
+     d="M394.049 172.318 L393.789 172.318 C393.792 171.106 394.709 170.113 395.88 170.112 C397.052 170.113 397.969 171.106 397.971 172.318 C397.969 173.529 397.053 174.523 395.88 174.524 C394.709 174.523 393.792 173.529 393.789 172.318 L394.049 172.318 L394.309 172.318 C394.311 173.269 395.018 174.003 395.88 174.005 C396.743 174.003 397.449 173.269 397.452 172.318 C397.449 171.366 396.744 170.633 395.88 170.631 C395.018 170.633 394.311 171.366 394.309 172.318 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5553"
+     d="M399.858 181.272 C399.858 180.191 400.7 179.326 401.752 179.326 C402.804 179.326 403.647 180.191 403.647 181.272 C403.647 182.354 402.804 183.218 401.752 183.218 C400.7 183.218 399.858 182.354 399.858 181.272 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5555"
+     d="M399.858 181.272 L399.598 181.272 C399.601 180.054 400.552 179.068 401.752 179.066 C402.951 179.068 403.904 180.054 403.906 181.272 C403.904 182.491 402.951 183.476 401.752 183.478 C400.552 183.476 399.601 182.49 399.598 181.272 L399.858 181.272 L400.118 181.272 C400.119 182.217 400.847 182.959 401.752 182.959 C402.656 182.959 403.385 182.217 403.387 181.272 C403.385 180.328 402.656 179.585 401.752 179.585 C400.847 179.585 400.119 180.328 400.118 181.272 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5557"
+     d="M471.206 176.471 C471.206 175.39 472.048 174.525 473.1 174.525 C474.152 174.525 474.993 175.39 474.993 176.471 C474.993 177.553 474.152 178.417 473.1 178.417 C472.048 178.417 471.206 177.553 471.206 176.471 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5559"
+     d="M471.206 176.471 L470.945 176.471 C470.949 175.253 471.901 174.267 473.1 174.265 C474.299 174.267 475.251 175.253 475.254 176.471 C475.251 177.689 474.299 178.675 473.1 178.677 C471.901 178.675 470.949 177.69 470.945 176.471 L471.206 176.471 L471.466 176.471 C471.466 177.416 472.195 178.158 473.1 178.158 C474.005 178.158 474.733 177.416 474.734 176.471 C474.733 175.527 474.005 174.784 473.1 174.784 C472.195 174.784 471.466 175.527 471.466 176.471 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5561"
+     d="M371.824 205.018 C371.824 203.937 372.667 203.072 373.718 203.072 C374.771 203.072 375.612 203.937 375.612 205.018 C375.612 206.1 374.771 206.964 373.718 206.964 C372.667 206.964 371.824 206.1 371.824 205.018 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5563"
+     d="M371.824 205.018 L371.564 205.018 C371.567 203.8 372.519 202.814 373.718 202.812 C374.918 202.814 375.87 203.8 375.872 205.018 C375.87 206.236 374.918 207.222 373.718 207.224 C372.519 207.222 371.567 206.236 371.564 205.018 L371.824 205.018 L372.084 205.018 C372.085 205.963 372.814 206.705 373.718 206.705 C374.623 206.705 375.351 205.963 375.353 205.018 C375.351 204.074 374.623 203.331 373.718 203.331 C372.814 203.331 372.085 204.074 372.084 205.018 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5565"
+     d="M425.114 194.248 C425.114 193.166 425.956 192.302 427.008 192.302 C428.06 192.302 428.902 193.166 428.902 194.248 C428.902 195.329 428.06 196.194 427.008 196.194 C425.956 196.194 425.114 195.329 425.114 194.248 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5567"
+     d="M425.114 194.248 L424.854 194.248 C424.857 193.03 425.808 192.044 427.008 192.042 C428.207 192.044 429.159 193.03 429.161 194.248 C429.159 195.466 428.207 196.452 427.008 196.454 C425.808 196.452 424.857 195.466 424.854 194.248 L425.114 194.248 L425.374 194.248 C425.375 195.193 426.104 195.935 427.008 195.935 C427.912 195.935 428.641 195.193 428.642 194.248 C428.641 193.303 427.913 192.561 427.008 192.561 C426.103 192.561 425.375 193.303 425.374 194.248 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5569"
+     d="M471.206 176.471 C471.206 175.39 472.048 174.525 473.1 174.525 C474.152 174.525 474.993 175.39 474.993 176.471 C474.993 177.553 474.152 178.417 473.1 178.417 C472.048 178.417 471.206 177.553 471.206 176.471 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5571"
+     d="M471.206 176.471 L470.945 176.471 C470.949 175.253 471.901 174.267 473.1 174.265 C474.299 174.267 475.251 175.253 475.254 176.471 C475.251 177.689 474.299 178.675 473.1 178.677 C471.901 178.675 470.949 177.69 470.945 176.471 L471.206 176.471 L471.466 176.471 C471.466 177.416 472.195 178.158 473.1 178.158 C474.005 178.158 474.733 177.416 474.734 176.471 C474.733 175.527 474.005 174.784 473.1 174.784 C472.195 174.784 471.466 175.527 471.466 176.471 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5573"
+     d="M459.336 146.625 C459.336 145.544 460.178 144.679 461.23 144.679 C462.282 144.679 463.125 145.544 463.125 146.625 C463.125 147.707 462.282 148.571 461.23 148.571 C460.178 148.571 459.336 147.707 459.336 146.625 "
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5575"
+     d="M459.336 146.625 L459.076 146.625 C459.079 145.407 460.03 144.421 461.23 144.419 C462.43 144.421 463.382 145.407 463.384 146.625 C463.382 147.844 462.429 148.829 461.23 148.831 C460.03 148.829 459.079 147.843 459.076 146.625 L459.336 146.625 L459.596 146.625 C459.597 147.57 460.325 148.312 461.23 148.312 C462.135 148.312 462.863 147.57 462.865 146.625 C462.863 145.681 462.134 144.938 461.23 144.938 C460.325 144.938 459.597 145.681 459.596 146.625 Z"
+     stroke-width="0.0"
+     fill="#3b7fff"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5577"
+     d="M424.309 91.967 L423.125 95.311 L422.636 95.138 L423.82 91.794 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5579"
+     d="M422.791 96.245 L421.614 99.721 L421.122 99.554 L422.299 96.078 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5581"
+     d="M421.15 100.657 L419.973 104.133 L419.481 103.967 L420.658 100.49 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5583"
+     d="M419.636 105.073 L418.453 108.418 L417.963 108.244 L419.147 104.9 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5585"
+     d="M417.992 109.351 L416.815 112.827 L416.323 112.66 L417.5 109.184 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5587"
+     d="M416.477 113.763 L415.3 117.239 L414.808 117.072 L415.985 113.596 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5589"
+     d="M414.838 118.179 L413.654 121.523 L413.165 121.35 L414.349 118.006 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5591"
+     d="M413.323 122.591 L412.14 125.936 L411.65 125.762 L412.834 122.418 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5593"
+     d="M411.81 126.881 L410.489 130.351 L410.004 130.166 L411.326 126.696 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5595"
+     d="M410.164 131.281 L408.986 134.757 L408.495 134.59 L409.672 131.114 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5597"
+     d="M408.656 135.71 L407.327 139.047 L406.845 138.855 L408.174 135.518 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5599"
+     d="M407.008 140.109 L405.825 143.454 L405.335 143.28 L406.519 139.936 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5601"
+     d="M405.497 144.399 L404.176 147.869 L403.691 147.684 L405.012 144.214 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5603"
+     d="M403.849 148.799 L402.672 152.275 L402.18 152.108 L403.357 148.632 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5605"
+     d="M402.342 153.228 L401.013 156.565 L400.531 156.373 L401.86 153.036 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5607"
+     d="M400.695 157.627 L399.512 160.972 L399.022 160.798 L400.206 157.454 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5609"
+     d="M399.183 161.917 L397.862 165.387 L397.377 165.202 L398.698 161.732 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5611"
+     d="M397.538 166.321 L396.354 169.665 L395.864 169.492 L397.049 166.148 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5613"
+     d="M396.022 170.733 L394.838 174.077 L394.349 173.904 L395.533 170.56 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5615"
+     d="M394.38 175.145 L393.196 178.489 L392.707 178.316 L393.891 174.972 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5617"
+     d="M392.863 179.422 L391.686 182.899 L391.194 182.732 L392.371 179.256 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5619"
+     d="M391.224 183.839 L390.04 187.183 L389.551 187.01 L390.735 183.666 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5621"
+     d="M389.708 188.251 L388.524 191.595 L388.035 191.422 L389.219 188.078 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5623"
+     d="M388.197 192.541 L386.876 196.011 L386.39 195.826 L387.712 192.356 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5625"
+     d="M386.549 196.94 L385.372 200.416 L384.88 200.25 L386.057 196.773 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5627"
+     d="M385.042 201.37 L383.714 204.707 L383.232 204.515 L384.56 201.178 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5629"
+     d="M424.123 91.788 L425.452 95.125 L424.969 95.317 L423.641 91.98 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5631"
+     d="M425.782 96.079 L426.959 99.555 L426.467 99.721 L425.29 96.246 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5633"
+     d="M427.285 100.484 L428.606 103.954 L428.121 104.139 L426.8 100.669 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5635"
+     d="M428.934 104.9 L430.117 108.245 L429.628 108.418 L428.445 105.073 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5637"
+     d="M430.441 109.179 L431.763 112.648 L431.277 112.833 L429.957 109.364 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5639"
+     d="M432.096 113.596 L433.273 117.072 L432.781 117.238 L431.604 113.763 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5641"
+     d="M433.593 118.0 L434.922 121.337 L434.439 121.529 L433.111 118.192 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5643"
+     d="M435.248 122.418 L436.432 125.762 L435.943 125.936 L434.759 122.591 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5645"
+     d="M436.768 126.703 L437.945 130.18 L437.453 130.346 L436.276 126.869 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5647"
+     d="M438.409 131.114 L439.586 134.59 L439.095 134.756 L437.917 131.281 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5649"
+     d="M439.921 135.524 L441.104 138.868 L440.615 139.041 L439.431 135.697 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5651"
+     d="M441.562 139.936 L442.745 143.281 L442.256 143.454 L441.073 140.109 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5653"
+     d="M443.082 144.22 L444.259 147.697 L443.767 147.863 L442.59 144.387 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5655"
+     d="M444.724 148.632 L445.901 152.108 L445.409 152.274 L444.232 148.799 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5657"
+     d="M446.234 153.042 L447.418 156.386 L446.929 156.559 L445.745 153.215 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5659"
+     d="M447.737 157.448 L449.065 160.785 L448.582 160.977 L447.255 157.64 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5661"
+     d="M449.396 161.738 L450.573 165.215 L450.081 165.381 L448.904 161.905 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5663"
+     d="M450.894 166.142 L452.223 169.479 L451.74 169.671 L450.412 166.334 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5665"
+     d="M452.549 170.56 L453.732 173.904 L453.243 174.077 L452.06 170.733 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5667"
+     d="M454.051 174.966 L455.38 178.303 L454.897 178.495 L453.569 175.158 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5669"
+     d="M455.71 179.256 L456.887 182.733 L456.395 182.899 L455.218 179.422 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5671"
+     d="M457.207 183.66 L458.536 186.997 L458.053 187.189 L456.725 183.852 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5673"
+     d="M458.862 188.078 L460.045 191.422 L459.556 191.595 L458.373 188.251 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5675"
+     d="M460.382 192.362 L461.559 195.838 L461.068 196.005 L459.89 192.529 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5677"
+     d="M462.023 196.774 L463.201 200.251 L462.71 200.417 L461.531 196.941 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5679"
+     d="M463.535 201.184 L464.718 204.528 L464.229 204.701 L463.046 201.357 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5681"
+     d="M424.237 91.866 L424.237 205.278 L423.718 205.278 L423.718 91.866 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5683"
+     d="M324.087 209.949 L324.087 88.492 L324.346 88.492 L324.346 209.949 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5685"
+     d="M324.347 92.255 L321.941 92.255 L321.941 91.996 L324.347 91.996 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5687"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="93.684"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,225.6507,413.01813)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">0</text>
+  <path
+     id="path5689"
+     d="M324.347 120.803 L321.941 120.803 L321.941 120.544 L324.347 120.544 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5691"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="122.874"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,196.46008,442.20874)"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">.</text>
+  <text
+     id="text5693"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="121.321"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,198.01331,440.65552)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">1</text>
+  <path
+     id="path5695"
+     d="M324.347 149.35 L321.941 149.35 L321.941 149.091 L324.347 149.091 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5697"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="151.423"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,167.91168,470.75714)"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">.</text>
+  <text
+     id="text5699"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="149.87"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,169.4649,469.20392)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">2</text>
+  <path
+     id="path5701"
+     d="M324.347 178.028 L321.941 178.028 L321.941 177.769 L324.347 177.769 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5703"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="180.102"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,139.23273,499.4361)"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">.</text>
+  <text
+     id="text5705"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="178.548"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,140.78595,497.88287)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">3</text>
+  <path
+     id="path5707"
+     d="M324.347 206.576 L321.941 206.576 L321.941 206.317 L324.347 206.317 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5709"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="208.645"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,110.68939,527.97943)"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">.</text>
+  <text
+     id="text5711"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="207.092"
+     x="319.334"
+     transform="matrix(0.0,-1.0,1.0,0.0,112.24261,526.42621)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">4</text>
+  <text
+     id="text5713"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="159.987"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,153.54474,473.51959)"
+     svgx:width="500.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">s</text>
+  <text
+     id="text5715"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="157.262"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,156.26971,470.79462)"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">e</text>
+  <text
+     id="text5717"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="154.15"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,159.38171,467.68262)"
+     svgx:width="333.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">(</text>
+  <text
+     id="text5719"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="152.336"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,161.19659,465.86774)"
+     svgx:width="667.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">S</text>
+  <text
+     id="text5721"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="148.7"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,164.83173,462.2326)"
+     svgx:width="833.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">M</text>
+  <text
+     id="text5723"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="144.161"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,169.37158,457.69275)"
+     svgx:width="722.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">D</text>
+  <text
+     id="text5725"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="140.264"
+     x="313.532"
+     transform="matrix(0.0,-1.0,1.0,0.0,173.26831,453.79602)"
+     svgx:width="333.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">)</text>
+  <path
+     id="path5727"
+     d="M324.087 209.69 L506.693 209.69 L506.693 209.949 L324.087 209.949 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <path
+     id="path5729"
+     d="M345.941 209.69 L345.941 212.155 L345.682 212.155 L345.682 209.69 "
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath6)"
+     stroke="black" />
+  <text
+     id="text5731"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="343.54"
+     svgx:width="333.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">-</text>
+  <text
+     id="text5733"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="345.306"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">3</text>
+  <path
+     id="path5735"
+     d="M398.087 212.155 L398.346 212.155 L398.346 209.69 L398.087 209.69 Z"
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <text
+     id="text5737"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="395.944"
+     svgx:width="333.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">-</text>
+  <text
+     id="text5739"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="397.71"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">2</text>
+  <path
+     id="path5741"
+     d="M450.619 212.155 L450.878 212.155 L450.878 209.69 L450.619 209.69 Z"
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <text
+     id="text5743"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="448.474"
+     svgx:width="333.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">-</text>
+  <text
+     id="text5745"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="450.24"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">1</text>
+  <path
+     id="path5747"
+     d="M503.151 212.155 L503.41 212.155 L503.41 209.69 L503.151 209.69 Z"
+     stroke-width="0.0"
+     fill="#060808"
+     clip-path="url(#clipPath2)"
+     stroke="black" />
+  <text
+     id="text5749"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="218.547"
+     x="501.891"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">0</text>
+  <text
+     id="text5751"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="222.717"
+     x="409.585"
+     svgx:width="667.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">S</text>
+  <text
+     id="text5753"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="222.717"
+     x="413.122"
+     svgx:width="833.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">M</text>
+  <text
+     id="text5755"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.376"
+     y="222.717"
+     x="417.418"
+     svgx:width="722.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">D</text>
+  <text
+     id="text5757"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="356.293"
+     svgx:width="611.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">F</text>
+  <text
+     id="text5759"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="359.83"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">u</text>
+  <text
+     id="text5761"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="362.99"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">n</text>
+  <text
+     id="text5763"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="366.272"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">n</text>
+  <text
+     id="text5765"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="369.432"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">e</text>
+  <text
+     id="text5767"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="372.592"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">l</text>
+  <text
+     id="text5771"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="375.497"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">p</text>
+  <text
+     id="text5773"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="378.657"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">l</text>
+  <text
+     id="text5775"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="379.923"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">o</text>
+  <text
+     id="text5777"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="383.205"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">t</text>
+  <text
+     id="text5781"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="386.481"
+     svgx:width="722.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">w</text>
+  <text
+     id="text5783"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="390.524"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">i</text>
+  <text
+     id="text5785"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="391.791"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">t</text>
+  <text
+     id="text5787"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="393.429"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">h</text>
+  <text
+     id="text5791"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="398.227"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">p</text>
+  <text
+     id="text5793"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="401.387"
+     svgx:width="500.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">s</text>
+  <text
+     id="text5795"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="404.291"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">e</text>
+  <text
+     id="text5797"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="407.574"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">u</text>
+  <text
+     id="text5799"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="410.734"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">d</text>
+  <text
+     id="text5801"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="413.894"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">o</text>
+  <text
+     id="text5805"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="418.814"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">9</text>
+  <text
+     id="text5807"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="421.974"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">5</text>
+  <text
+     id="text5809"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="425.134"
+     svgx:width="889.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">%</text>
+  <text
+     id="text5813"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="431.948"
+     svgx:width="500.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">c</text>
+  <text
+     id="text5815"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="434.852"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">o</text>
+  <text
+     id="text5817"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="438.012"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">n</text>
+  <text
+     id="text5819"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="441.294"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">f</text>
+  <text
+     id="text5821"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="442.932"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">i</text>
+  <text
+     id="text5823"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="444.199"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">d</text>
+  <text
+     id="text5825"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="447.359"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">e</text>
+  <text
+     id="text5827"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="450.641"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">n</text>
+  <text
+     id="text5829"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="453.801"
+     svgx:width="500.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">c</text>
+  <text
+     id="text5831"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="456.705"
+     svgx:width="556.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">e</text>
+  <text
+     id="text5835"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="461.503"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">l</text>
+  <text
+     id="text5837"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="462.77"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">i</text>
+  <text
+     id="text5839"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="464.036"
+     svgx:width="833.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">m</text>
+  <text
+     id="text5841"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="468.84"
+     svgx:width="222.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">i</text>
+  <text
+     id="text5843"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="470.106"
+     svgx:width="278.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">t</text>
+  <text
+     id="text5845"
+     font-weight="normal"
+     font-family="Helvetica"
+     font-size="5.888"
+     y="85.775"
+     x="471.744"
+     svgx:width="500.0"
+     svgx:fontName="KXXXPR+ArialMT"
+     clip-path="url(#clipPath2)"
+     fill="#060808"
+     stroke="none">s</text>
+</svg>

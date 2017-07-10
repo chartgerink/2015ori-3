@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g stroke="pink">
+   <path id="path10545" stroke-width="2.0" fill="#fffeff" clip-path="url(#clipPath2)" stroke="black" signature="MLLLZ" d="M322.741 84.147 L524.591 84.147 L524.591 239.273 L322.741 239.273 Z"/>
+   <path id="path10547" d="M322.741 84.147 L524.591 84.147 L524.591 239.273 L322.741 239.273 Z" stroke-width="2.0" stroke="#fffeff" clip-path="url(#clipPath2)" fill="none" signature="MLLLZ"/>
+   <path id="path10549" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M322.741 88.631 L524.591 88.631 "/>
+   <path id="path10551" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M322.741 125.171 L524.591 125.171 "/>
+   <path id="path10553" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M322.741 161.711 L524.591 161.711 "/>
+   <path id="path10555" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M322.741 198.416 L524.591 198.416 "/>
+   <path id="path10557" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M322.741 234.956 L524.591 234.956 "/>
+   <path id="path10559" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M447.569 118.861 C447.569 117.753 448.315 116.868 449.247 116.868 C450.178 116.868 450.924 117.753 450.924 118.861 C450.924 119.968 450.178 120.854 449.247 120.854 C448.315 120.854 447.569 119.968 447.569 118.861 Z"/>
+   <path id="path10561" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M398.924 146.598 C398.924 145.49 399.67 144.604 400.602 144.604 C401.533 144.604 402.279 145.49 402.279 146.598 C402.279 147.705 401.533 148.591 400.602 148.591 C399.67 148.591 398.924 147.705 398.924 146.598 Z"/>
+   <path id="path10563" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M386.343 222.832 C386.343 221.725 387.058 220.839 387.951 220.839 C388.844 220.839 389.559 221.725 389.559 222.832 C389.559 223.939 388.844 224.825 387.951 224.825 C387.058 224.825 386.343 223.939 386.343 222.832 Z"/>
+   <path id="path10565" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M412.903 131.484 C412.903 130.377 413.617 129.491 414.51 129.491 C415.403 129.491 416.118 130.377 416.118 131.484 C416.118 132.591 415.403 133.477 414.51 133.477 C413.617 133.477 412.903 132.591 412.903 131.484 Z"/>
+   <path id="path10567" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M431.634 117.699 C431.634 116.592 432.379 115.706 433.311 115.706 C434.243 115.706 434.988 116.592 434.988 117.699 C434.988 118.806 434.243 119.692 433.311 119.692 C432.379 119.692 431.634 118.806 431.634 117.699 Z"/>
+   <path id="path10569" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M462.526 121.187 C462.526 120.08 463.272 119.194 464.204 119.194 C465.135 119.194 465.881 120.08 465.881 121.187 C465.881 122.294 465.135 123.18 464.204 123.18 C463.272 123.18 462.526 122.294 462.526 121.187 Z"/>
+   <path id="path10571" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M425.483 144.606 C425.483 143.498 426.229 142.613 427.161 142.613 C428.093 142.613 428.838 143.498 428.838 144.606 C428.838 145.713 428.093 146.599 427.161 146.599 C426.229 146.599 425.483 145.713 425.483 144.606 Z"/>
+   <path id="path10573" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M388.86 135.139 C388.86 134.032 389.605 133.146 390.537 133.146 C391.469 133.146 392.214 134.032 392.214 135.139 C392.214 136.246 391.469 137.132 390.537 137.132 C389.605 137.132 388.86 136.246 388.86 135.139 Z"/>
+   <path id="path10575" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M471.053 115.541 C471.053 114.434 471.798 113.548 472.73 113.548 C473.662 113.548 474.408 114.434 474.408 115.541 C474.408 116.648 473.662 117.534 472.73 117.534 C471.798 117.534 471.053 116.648 471.053 115.541 Z"/>
+   <path id="path10577" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M422.408 133.977 C422.408 132.87 423.153 131.984 424.085 131.984 C425.017 131.984 425.763 132.87 425.763 133.977 C425.763 135.084 425.017 135.97 424.085 135.97 C423.153 135.97 422.408 135.084 422.408 133.977 Z"/>
+   <path id="path10579" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M412.204 144.108 C412.204 143.001 412.918 142.115 413.811 142.115 C414.704 142.115 415.419 143.001 415.419 144.108 C415.419 145.216 414.704 146.101 413.811 146.101 C412.918 146.101 412.204 145.216 412.204 144.108 Z"/>
+   <path id="path10581" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M414.999 147.597 C414.999 146.489 415.745 145.604 416.677 145.604 C417.609 145.604 418.354 146.489 418.354 147.597 C418.354 148.704 417.609 149.59 416.677 149.59 C415.745 149.59 414.999 148.704 414.999 147.597 Z"/>
+   <path id="path10583" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M423.107 113.051 C423.107 111.943 423.852 111.057 424.784 111.057 C425.716 111.057 426.462 111.943 426.462 113.051 C426.462 114.158 425.716 115.044 424.784 115.044 C423.852 115.044 423.107 114.158 423.107 113.051 Z"/>
+   <path id="path10585" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M412.343 141.286 C412.343 140.178 413.089 139.293 414.021 139.293 C414.953 139.293 415.698 140.178 415.698 141.286 C415.698 142.393 414.953 143.279 414.021 143.279 C413.089 143.279 412.343 142.393 412.343 141.286 Z"/>
+   <path id="path10587" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M425.763 130.49 C425.763 129.383 426.477 128.497 427.37 128.497 C428.263 128.497 428.978 129.383 428.978 130.49 C428.978 131.598 428.263 132.483 427.37 132.483 C426.477 132.483 425.763 131.598 425.763 130.49 Z"/>
+   <path id="path10589" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M450.365 119.861 C450.365 118.754 451.11 117.868 452.042 117.868 C452.974 117.868 453.72 118.754 453.72 119.861 C453.72 120.968 452.974 121.854 452.042 121.854 C451.11 121.854 450.365 120.968 450.365 119.861 Z"/>
+   <path id="path10591" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M421.569 129.66 C421.569 128.553 422.315 127.667 423.247 127.667 C424.179 127.667 424.924 128.553 424.924 129.66 C424.924 130.768 424.179 131.653 423.247 131.653 C422.315 131.653 421.569 130.768 421.569 129.66 Z"/>
+   <path id="path10593" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M381.731 124.346 C381.731 123.238 382.445 122.353 383.338 122.353 C384.231 122.353 384.946 123.238 384.946 124.346 C384.946 125.453 384.231 126.339 383.338 126.339 C382.445 126.339 381.731 125.453 381.731 124.346 Z"/>
+   <path id="path10595" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M460.01 131.82 C460.01 130.713 460.724 129.827 461.617 129.827 C462.511 129.827 463.225 130.713 463.225 131.82 C463.225 132.927 462.511 133.813 461.617 133.813 C460.724 133.813 460.01 132.927 460.01 131.82 Z"/>
+   <path id="path10597" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M420.171 127.668 C420.171 126.561 420.917 125.675 421.849 125.675 C422.781 125.675 423.526 126.561 423.526 127.668 C423.526 128.775 422.781 129.661 421.849 129.661 C420.917 129.661 420.171 128.775 420.171 127.668 Z"/>
+   <path id="path10599" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M422.687 130.491 C422.687 129.383 423.402 128.499 424.295 128.499 C425.188 128.499 425.902 129.383 425.902 130.491 C425.902 131.599 425.188 132.485 424.295 132.485 C423.402 132.485 422.687 131.599 422.687 130.491 Z"/>
+   <path id="path10601" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M419.892 136.471 C419.892 135.364 420.637 134.478 421.569 134.478 C422.501 134.478 423.247 135.364 423.247 136.471 C423.247 137.578 422.501 138.464 421.569 138.464 C420.637 138.464 419.892 137.578 419.892 136.471 Z"/>
+   <path id="path10603" stroke-width="4.0" stroke="#19466e" clip-path="url(#clipPath7)" fill="none" signature="MCCCCZ" d="M408.989 115.378 C408.989 114.271 409.703 113.385 410.596 113.385 C411.489 113.385 412.204 114.271 412.204 115.378 C412.204 116.485 411.489 117.371 410.596 117.371 C409.703 117.371 408.989 116.485 408.989 115.378 Z"/>
+   <path id="path10605" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M430.515 88.638 L428.838 91.96 "/>
+   <path id="path10607" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M427.859 93.621 L426.182 97.109 "/>
+   <path id="path10609" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M425.204 98.77 L423.526 102.092 "/>
+   <path id="path10611" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M422.687 103.753 L420.87 107.241 "/>
+   <path id="path10613" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M420.032 108.902 L418.214 112.224 "/>
+   <path id="path10615" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M417.376 114.051 L415.558 117.373 "/>
+   <path id="path10617" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M414.72 119.034 L412.903 122.356 "/>
+   <path id="path10619" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M412.064 124.183 L410.247 127.504 "/>
+   <path id="path10621" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M409.408 129.166 L407.591 132.653 "/>
+   <path id="path10623" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M406.752 134.315 L404.935 137.636 "/>
+   <path id="path10625" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M404.096 139.297 L402.279 142.785 "/>
+   <path id="path10627" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M401.44 144.447 L399.763 147.768 "/>
+   <path id="path10629" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M398.784 149.595 L397.107 152.917 "/>
+   <path id="path10631" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M396.128 154.578 L394.451 158.066 "/>
+   <path id="path10633" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M393.472 159.727 L391.795 163.049 "/>
+   <path id="path10635" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M390.817 164.71 L389.139 168.198 "/>
+   <path id="path10637" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M388.3 169.859 L386.483 173.181 "/>
+   <path id="path10639" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M385.645 174.842 L383.827 178.33 "/>
+   <path id="path10641" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M382.989 179.991 L381.171 183.313 "/>
+   <path id="path10643" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M380.333 185.14 L378.516 188.462 "/>
+   <path id="path10645" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M377.677 190.123 L375.86 193.611 "/>
+   <path id="path10647" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M375.021 195.272 L373.204 198.594 "/>
+   <path id="path10649" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M372.365 200.255 L370.548 203.742 "/>
+   <path id="path10651" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M369.709 205.404 L367.892 208.725 "/>
+   <path id="path10653" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M367.053 210.553 L365.236 213.874 "/>
+   <path id="path10655" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M364.397 215.536 L362.72 218.857 "/>
+   <path id="path10657" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M361.741 220.684 L360.623 222.844 "/>
+   <path id="path10659" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M430.515 88.645 L432.333 91.967 "/>
+   <path id="path10661" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M433.171 93.628 L434.989 97.116 "/>
+   <path id="path10663" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M435.827 98.777 L437.644 102.098 "/>
+   <path id="path10665" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M438.483 103.76 L440.3 107.247 "/>
+   <path id="path10667" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M441.139 108.909 L442.956 112.23 "/>
+   <path id="path10669" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M443.795 114.057 L445.612 117.379 "/>
+   <path id="path10671" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M446.451 119.04 L448.128 122.362 "/>
+   <path id="path10673" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M449.107 124.189 L450.784 127.511 "/>
+   <path id="path10675" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M451.763 129.172 L453.44 132.66 "/>
+   <path id="path10677" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M454.419 134.321 L456.096 137.643 "/>
+   <path id="path10679" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M457.074 139.304 L458.752 142.792 "/>
+   <path id="path10681" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M459.591 144.453 L461.408 147.775 "/>
+   <path id="path10683" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M462.247 149.602 L464.064 152.924 "/>
+   <path id="path10685" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M464.902 154.585 L466.72 158.073 "/>
+   <path id="path10687" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M467.558 159.734 L469.376 163.056 "/>
+   <path id="path10689" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M470.214 164.717 L472.031 168.205 "/>
+   <path id="path10691" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M472.87 169.866 L474.687 173.187 "/>
+   <path id="path10693" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M475.526 175.015 L477.343 178.336 "/>
+   <path id="path10695" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M478.182 179.998 L479.999 183.485 "/>
+   <path id="path10697" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M480.838 185.146 L482.655 188.468 "/>
+   <path id="path10699" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M483.494 190.129 L485.171 193.617 "/>
+   <path id="path10701" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M486.15 195.278 L487.827 198.6 "/>
+   <path id="path10703" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M488.806 200.261 L490.483 203.749 "/>
+   <path id="path10705" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M491.462 205.41 L493.139 208.732 "/>
+   <path id="path10707" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M494.117 210.559 L495.795 213.881 "/>
+   <path id="path10709" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M496.634 215.542 L498.451 219.03 "/>
+   <path id="path10711" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M499.289 220.691 L500.548 222.85 "/>
+   <path id="path10713" stroke-width="4.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M430.515 88.651 L430.515 222.85 "/>
+   <path id="path10715" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 239.293 L322.741 84.167 "/>
+   <path id="path10717" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 88.652 L320.365 88.652 "/>
+   <path id="path10721" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 125.192 L320.365 125.192 "/>
+   <path id="path10727" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 161.731 L320.365 161.731 "/>
+   <path id="path10733" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 198.437 L320.365 198.437 "/>
+   <path id="path10739" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 234.977 L320.365 234.977 "/>
+   <path id="path10763" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M322.741 239.295 L524.591 239.295 "/>
+   <path id="path10765" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M326.376 239.296 L326.376 242.119 "/>
+   <path id="path10771" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M375.021 239.296 L375.021 242.119 "/>
+   <path id="path10777" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M423.666 239.296 L423.666 242.12 "/>
+   <path id="path10781" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M472.311 239.297 L472.311 242.12 "/>
+   <path id="path10785" stroke-width="2.0" stroke="#000000" clip-path="url(#clipPath7)" fill="none" signature="ML" d="M520.956 239.297 L520.956 242.12 "/>
+   <text id="text10719" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,226.69458,407.98621)" x="317.34" y="90.646" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text10723" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,189.32446,445.35632)" x="317.34" y="128.016" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text10725" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,191.31952,443.36127)" x="317.34" y="126.021" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text10729" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,152.78491,481.89587)" x="317.34" y="164.555" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text10731" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,154.77997,479.90082)" x="317.34" y="162.56" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">4</text>
+   <text id="text10735" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,116.07898,518.60181)" x="317.34" y="201.261" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text10737" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,118.07404,516.60675)" x="317.34" y="199.266" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">6</text>
+   <text id="text10741" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,79.53949,555.1413)" x="317.34" y="237.801" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text10743" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,81.53455,553.14624)" x="317.34" y="235.806" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">8</text>
+   <text id="text10745" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,133.23428,488.58902)" x="310.912" y="177.677" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
+   <text id="text10747" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,136.72214,485.10117)" x="310.912" y="174.19" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
+   <text id="text10749" font-weight="normal" font-family="Helvetica" svgx:width="333.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,140.70804,481.11526)" x="310.912" y="170.204" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">(</text>
+   <text id="text10751" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,143.03372,478.78958)" x="310.912" y="167.878" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
+   <text id="text10753" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,144.52652,477.29678)" x="310.912" y="166.385" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10755" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,148.51315,473.31015)" x="310.912" y="162.399" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">g</text>
+   <text id="text10757" font-weight="normal" font-family="Helvetica" svgx:width="778.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,152.33585,469.48746)" x="310.912" y="158.576" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">O</text>
+   <text id="text10759" font-weight="normal" font-family="Helvetica" svgx:width="722.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,157.81662,464.00668)" x="310.912" y="153.095" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">R</text>
+   <text id="text10761" font-weight="normal" font-family="Helvetica" svgx:width="333.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" transform="matrix(0.0,-1.0,1.0,0.0,162.79727,459.02603)" x="310.912" y="148.114" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">)</text>
+   <text id="text10767" font-weight="normal" font-family="Helvetica" svgx:width="333.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="323.86" y="250.465" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">-</text>
+   <text id="text10769" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="325.815" y="250.465" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text10773" font-weight="normal" font-family="Helvetica" svgx:width="333.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="372.505" y="250.465" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">-</text>
+   <text id="text10775" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="374.46" y="250.465" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
+   <text id="text10779" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="422.128" y="250.466" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text10783" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="470.773" y="250.466" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
+   <text id="text10787" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="519.419" y="250.466" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text10789" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="417.234" y="255.803" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
+   <text id="text10791" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="418.49" y="255.803" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10793" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="421.845" y="255.803" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">g</text>
+   <text id="text10795" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="425.062" y="255.803" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10797" font-weight="normal" font-family="Helvetica" svgx:width="333.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="428.417" y="255.803" font-size="6.4" xmlns:svgx="http://www.xml-cml.org/schema/svgx">r</text>
+   <text id="text10799" font-weight="normal" font-family="Helvetica" svgx:width="611.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="358.247" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">F</text>
+   <text id="text10801" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="362.161" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">u</text>
+   <text id="text10803" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="365.652" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">n</text>
+   <text id="text10805" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="369.287" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">n</text>
+   <text id="text10807" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="372.778" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
+   <text id="text10809" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="376.27" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
+   <text id="text10813" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="379.487" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">p</text>
+   <text id="text10815" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="382.979" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
+   <text id="text10817" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="384.377" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10819" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="388.011" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text10823" font-weight="normal" font-family="Helvetica" svgx:width="722.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="391.648" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">w</text>
+   <text id="text10825" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="396.121" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text10827" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="397.519" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text10829" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="399.336" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">h</text>
+   <text id="text10833" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="404.648" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">p</text>
+   <text id="text10835" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="408.139" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
+   <text id="text10837" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="411.354" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
+   <text id="text10839" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="414.989" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">u</text>
+   <text id="text10841" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="418.48" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">d</text>
+   <text id="text10843" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="421.972" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10847" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="427.426" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">9</text>
+   <text id="text10849" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="430.918" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">5</text>
+   <text id="text10851" font-weight="normal" font-family="Helvetica" svgx:width="889.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="434.41" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">%</text>
+   <text id="text10855" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="441.96" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">c</text>
+   <text id="text10857" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="445.175" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text10859" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="448.667" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">n</text>
+   <text id="text10861" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="452.301" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">f</text>
+   <text id="text10863" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="454.118" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text10865" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="455.516" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">d</text>
+   <text id="text10867" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="459.008" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
+   <text id="text10869" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="462.642" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">n</text>
+   <text id="text10871" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="466.134" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">c</text>
+   <text id="text10873" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="469.349" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">e</text>
+   <text id="text10877" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="474.66" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">l</text>
+   <text id="text10879" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="476.058" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text10881" font-weight="normal" font-family="Helvetica" svgx:width="833.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="477.456" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">m</text>
+   <text id="text10883" font-weight="normal" font-family="Helvetica" svgx:width="222.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="482.767" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text10885" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="484.165" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text10887" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath7)" fill="#000000" stroke="none" x="485.983" y="80.529" font-size="7.009" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
+  </g>
+  <g fill="orange">
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="449.247" cy="118.861" r="1.642" id="circle.6"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="400.602" cy="146.598" r="1.642" id="circle.7"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="387.951" cy="222.832" r="1.625" id="circle.8"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="414.51" cy="131.484" r="1.625" id="circle.9"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="433.311" cy="117.699" r="1.642" id="circle.10"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="464.204" cy="121.187" r="1.642" id="circle.11"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="427.161" cy="144.606" r="1.642" id="circle.12"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="390.537" cy="135.139" r="1.642" id="circle.13"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="472.73" cy="115.541" r="1.642" id="circle.14"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="424.085" cy="133.977" r="1.642" id="circle.15"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="413.811" cy="144.108" r="1.625" id="circle.16"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="416.677" cy="147.597" r="1.642" id="circle.17"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="424.784" cy="113.051" r="1.642" id="circle.18"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="414.021" cy="141.286" r="1.642" id="circle.19"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="427.37" cy="130.49" r="1.625" id="circle.20"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="452.042" cy="119.861" r="1.642" id="circle.21"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="423.247" cy="129.66" r="1.642" id="circle.22"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="383.338" cy="124.346" r="1.625" id="circle.23"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="461.617" cy="131.82" r="1.625" id="circle.24"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="421.849" cy="127.668" r="1.642" id="circle.25"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="424.295" cy="130.492" r="1.625" id="circle.26"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="421.569" cy="136.471" r="1.642" id="circle.27"/>
+   <circle fill="none" stroke="#19466e" stroke-width="4.0" cx="410.596" cy="115.378" r="1.625" id="circle.28"/>
+  </g>
+  <g class="pathAnnotation NYI"/>
+  <g class="plotBox">
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="317.741" y="229.293" width="211.85000000000002" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="326.376" y="239.296" width="194.58000000000004" height="2.8240000000000123" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="317.741" y="229.293" width="211.85000000000002" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="323.86" y="244.065" width="199.14299999999992" height="6.4010000000000105" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="304.741" y="79.167" width="28.0" height="165.126" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="320.365" y="88.652" width="2.3759999999999764" height="146.325" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="304.741" y="79.167" width="28.0" height="165.126" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="310.93997" y="87.06221000000005" width="6.400609999999972" height="148.74403" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="317.741" y="66.167" width="211.85000000000002" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="317.741" y="66.167" width="211.85000000000002" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="514.591" y="79.167" width="28.0" height="165.126" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="514.591" y="79.167" width="28.0" height="165.126" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

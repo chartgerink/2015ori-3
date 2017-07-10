@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="800.0" width="700.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g stroke="pink">
+   <path id="path823" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M335.428 553.294 L338.263 553.294 "/>
+   <path id="path825" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M335.428 577.549 L338.263 577.549 "/>
+   <path id="path827" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M335.428 601.804 L338.263 601.804 "/>
+   <path id="path829" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M335.428 624.86 L338.263 624.86 "/>
+   <path id="path831" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M335.428 648.676 L338.263 648.676 "/>
+   <path id="path833" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M338.98 675.1 L338.98 672.265 "/>
+   <path id="path835" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M385.565 675.1 L385.565 672.265 "/>
+   <path id="path837" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M432.241 675.1 L432.241 672.265 "/>
+   <path id="path839" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M478.973 675.1 L478.973 672.265 "/>
+   <path id="path841" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M525.705 675.1 L525.705 672.265 "/>
+   <path id="path843" stroke-width="0.5" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="MLL" d="M335.381 553.246 L335.381 675.224 L529.051 675.224 "/>
+   <path id="path845" stroke-width="0.3" stroke-dasharray="1 1" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M363.4 657.747 L441.811 555.012 "/>
+   <path id="path847" stroke-width="0.3" stroke-dasharray="1 1" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M444.829 555.796 L524.341 658.531 "/>
+   <path id="path849" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="MLMLLML" d="M361.604 660.099 L362.203 659.315 M442.409 554.228 L443.008 553.443 L443.615 554.228 M524.948 659.315 L525.555 660.099 "/>
+   <path id="path851" stroke-width="0.3" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M442.866 553.348 L442.866 659.726 "/>
+   <path id="path853" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M435.872 579.116 C436.655 579.116 437.289 578.481 437.289 577.699 C437.289 576.916 436.655 576.282 435.872 576.282 C435.089 576.282 434.455 576.916 434.455 577.699 C434.455 578.481 435.089 579.116 435.872 579.116 "/>
+   <path id="path855" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M436.439 597.525 C437.222 597.525 437.856 596.89 437.856 596.108 C437.856 595.325 437.222 594.691 436.439 594.691 C435.656 594.691 435.022 595.325 435.022 596.108 C435.022 596.89 435.656 597.525 436.439 597.525 "/>
+   <path id="path857" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M446.36 628.706 C447.143 628.706 447.777 628.071 447.777 627.289 C447.777 626.506 447.143 625.872 446.36 625.872 C445.577 625.872 444.943 626.506 444.943 627.289 C444.943 628.071 445.577 628.706 446.36 628.706 "/>
+   <path id="path859" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M450.612 626.127 C451.395 626.127 452.029 625.492 452.029 624.71 C452.029 623.927 451.395 623.293 450.612 623.293 C449.829 623.293 449.195 623.927 449.195 624.71 C449.195 625.492 449.829 626.127 450.612 626.127 "/>
+   <path id="path861" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M455.148 628.422 C455.931 628.422 456.565 627.787 456.565 627.005 C456.565 626.222 455.931 625.588 455.148 625.588 C454.365 625.588 453.731 626.222 453.731 627.005 C453.731 627.787 454.365 628.422 455.148 628.422 "/>
+   <path id="path863" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M455.148 644.58 C455.931 644.58 456.565 643.945 456.565 643.163 C456.565 642.38 455.931 641.746 455.148 641.746 C454.365 641.746 453.731 642.38 453.731 643.163 C453.731 643.945 454.365 644.58 455.148 644.58 "/>
+   <path id="path865" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M455.148 656.2 C455.931 656.2 456.565 655.565 456.565 654.783 C456.565 654.0 455.931 653.366 455.148 653.366 C454.365 653.366 453.731 654.0 453.731 654.783 C453.731 655.565 454.365 656.2 455.148 656.2 "/>
+   <path id="path867" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M502.203 644.58 C502.986 644.58 503.62 643.945 503.62 643.163 C503.62 642.38 502.986 641.746 502.203 641.746 C501.42 641.746 500.786 642.38 500.786 643.163 C500.786 643.945 501.42 644.58 502.203 644.58 "/>
+   <path id="path869" stroke-width="0.3" fill="#0032e5" clip-path="url(#clipPath2)" stroke="black" signature="MCCCC" d="M443.579 661.042 C444.362 661.042 444.996 660.406 444.996 659.625 C444.996 658.841 444.362 658.208 443.579 658.208 C442.796 658.208 442.162 658.841 442.162 659.625 C442.162 660.406 442.796 661.042 443.579 661.042 "/>
+   <text id="text671" font-weight="normal" font-family="Helvetica" svgx:hexCode="2013" svgx:charCode="8211" svgx:width="0.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="333.444" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">–</text>
+   <text id="text673" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="337.48" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text675" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="341.515" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text677" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="343.438" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text681" font-weight="normal" font-family="Helvetica" svgx:hexCode="2013" svgx:charCode="8211" svgx:width="0.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="378.429" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">–</text>
+   <text id="text683" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="382.464" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text685" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="386.5" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text687" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="388.423" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
+   <text id="text691" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="430.428" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text695" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="474.447" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text697" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="478.483" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text699" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="480.405" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
+   <text id="text703" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="521.354" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text705" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="525.39" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text707" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="527.313" y="687.784" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text709" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="409.33" svgx:width="944.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">W</text>
+   <text id="text711" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="416.01" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">a</text>
+   <text id="text713" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="420.046" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text715" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="421.543" svgx:width="500.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
+   <text id="text717" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="425.153" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text719" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="427.076" svgx:width="333.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">-</text>
+   <text id="text721" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="429.416" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">h</text>
+   <text id="text723" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="433.452" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text725" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="434.949" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">p</text>
+   <text id="text729" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="440.908" svgx:width="333.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">r</text>
+   <text id="text731" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="443.172" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">a</text>
+   <text id="text733" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="447.208" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text735" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="449.131" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text737" font-weight="normal" font-family="Helvetica" font-size="7.797" y="701.453" x="450.628" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text739" font-weight="normal" font-family="Helvetica" font-size="7.797" y="640.635" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-332.10541,949.16498)" svgx:width="667.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">S</text>
+   <text id="text741" font-weight="normal" font-family="Helvetica" font-size="7.797" y="635.756" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-327.2262,944.28577)" svgx:width="667.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">E</text>
+   <text id="text745" font-weight="normal" font-family="Helvetica" font-size="7.797" y="628.954" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-320.42419,937.48376)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text747" font-weight="normal" font-family="Helvetica" font-size="7.797" y="624.918" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-316.38861,933.44818)" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">f</text>
+   <text id="text751" font-weight="normal" font-family="Helvetica" font-size="7.797" y="621.073" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-312.54297,929.60254)" svgx:width="722.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">w</text>
+   <text id="text753" font-weight="normal" font-family="Helvetica" font-size="7.797" y="615.89" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-307.3598,924.41937)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">a</text>
+   <text id="text755" font-weight="normal" font-family="Helvetica" font-size="7.797" y="611.854" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-303.32422,920.38379)" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text757" font-weight="normal" font-family="Helvetica" font-size="7.797" y="610.357" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-301.82703,918.8866)" svgx:width="500.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
+   <text id="text759" font-weight="normal" font-family="Helvetica" font-size="7.797" y="606.747" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-298.21698,915.27655)" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text761" font-weight="normal" font-family="Helvetica" font-size="7.797" y="604.824" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-296.29419,913.35376)" svgx:width="333.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">-</text>
+   <text id="text763" font-weight="normal" font-family="Helvetica" font-size="7.797" y="602.483" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-293.95337,911.01294)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">h</text>
+   <text id="text765" font-weight="normal" font-family="Helvetica" font-size="7.797" y="598.448" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-289.91779,906.97736)" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text767" font-weight="normal" font-family="Helvetica" font-size="7.797" y="596.95" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-288.42059,905.48016)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">p</text>
+   <text id="text771" font-weight="normal" font-family="Helvetica" font-size="7.797" y="590.992" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-282.46216,899.52173)" svgx:width="333.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">r</text>
+   <text id="text773" font-weight="normal" font-family="Helvetica" font-size="7.797" y="588.727" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-280.19739,897.25696)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">a</text>
+   <text id="text775" font-weight="normal" font-family="Helvetica" font-size="7.797" y="584.692" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-276.1618,893.22137)" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
+   <text id="text777" font-weight="normal" font-family="Helvetica" font-size="7.797" y="582.769" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-274.23901,891.29858)" svgx:width="222.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">i</text>
+   <text id="text779" font-weight="normal" font-family="Helvetica" font-size="7.797" y="581.272" x="308.53" transform="matrix(0.0,-1.0,1.0,0.0,-272.74182,889.80139)" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">o</text>
+   <text id="text781" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="556.826" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text783" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="315.242" y="580.209" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text785" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="319.278" y="580.209" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text787" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="321.201" y="580.209" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text789" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="580.209" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">2</text>
+   <text id="text791" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="315.242" y="603.592" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text793" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="319.278" y="603.592" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text795" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="321.201" y="603.592" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text797" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="603.592" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">4</text>
+   <text id="text799" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="315.242" y="626.974" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text801" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="319.278" y="626.974" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text803" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="321.201" y="626.974" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text805" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="626.974" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">6</text>
+   <text id="text807" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="315.242" y="650.357" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text809" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="319.278" y="650.357" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text811" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="321.201" y="650.357" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text813" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="650.357" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">8</text>
+   <text id="text815" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="315.66" y="673.74" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+   <text id="text817" font-weight="normal" font-family="Helvetica" svgx:width="278.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="319.696" y="673.74" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">.</text>
+   <text id="text819" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="321.619" y="673.74" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">1</text>
+   <text id="text821" font-weight="normal" font-family="Helvetica" svgx:width="556.0" svgx:fontName="RFAWEV+HelveticaLTStd-Roman" clip-path="url(#clipPath1)" fill="#000000" stroke="none" x="325.236" y="673.74" font-size="7.797" xmlns:svgx="http://www.xml-cml.org/schema/svgx">0</text>
+  </g>
+  <g fill="orange">
+   <polyline fill="none" stroke="#000000" stroke-width="0.3" id="polyline.14" points="443.615 554.228 443.008 553.443 442.409 554.228"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="435.872" cy="577.699" r="1.416" id="circle.17"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="436.439" cy="596.108" r="1.416" id="circle.18"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="446.36" cy="627.289" r="1.416" id="circle.19"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="450.612" cy="624.71" r="1.416" id="circle.20"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="455.148" cy="627.005" r="1.416" id="circle.21"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="455.148" cy="643.163" r="1.416" id="circle.22"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="455.148" cy="654.783" r="1.416" id="circle.23"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="502.203" cy="643.163" r="1.416" id="circle.24"/>
+   <circle fill="#0032e5" stroke="black" stroke-width="0.3" cx="443.579" cy="659.625" r="1.416" id="circle.25"/>
+  </g>
+  <g class="pathAnnotation NYI"/>
+  <g class="plotBox">
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="330.381" y="665.224" width="203.67000000000007" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="338.98" y="672.265" width="186.72500000000002" height="2.8350000000000364" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="330.381" y="665.224" width="203.67000000000007" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="333.444" y="679.987" width="198.82580000000002" height="7.7970000000000255" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="317.381" y="548.246" width="28.0" height="131.97800000000007" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="335.428" y="553.294" width="2.8349999999999795" height="95.38200000000006" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="317.381" y="548.246" width="28.0" height="131.97800000000007" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+     <rect stroke="black" x="315.242" y="549.029" width="15.700120000000027" height="124.71100000000001" stroke-width="0.2" fill="green" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="330.381" y="535.246" width="203.67000000000007" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="330.381" y="535.246" width="203.67000000000007" height="28.0" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+   </g>
+   <g class="axis">
+    <g class="axisTickBox">
+     <rect stroke="black" x="519.051" y="548.246" width="28.0" height="131.97800000000007" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+    <g class="axisTextBox">
+     <rect stroke="black" x="519.051" y="548.246" width="28.0" height="131.97800000000007" stroke-width="0.2" fill="yellow" opacity="0.3"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
