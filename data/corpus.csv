@@ -1,6 +1,6 @@
 url,doi,funnel_plot,nr_funnel,vector,note,true_vector
-https://doi.org/10.1186/s12891-016-1231-4,10.1186/s12891-016-1231-4,yes,1,yes,potentially only axes vector :(,?
-https://doi.org/10.1186/s13054-016-1298-1,10.1186/s13054-016-1298-1,yes,1,yes,,?
+https://doi.org/10.1186/s12891-016-1231-4,10.1186/s12891-016-1231-4,yes,1,yes,potentially only axes vector :(,yes
+https://doi.org/10.1186/s13054-016-1298-1,10.1186/s13054-016-1298-1,yes,1,yes,,yes
 https://doi.org/10.1002/bimj.201500115,10.1002/bimj.201500115,no,NA,NA,,NA
 https://doi.org/10.1002/cam4.673,10.1002/cam4.673,no,NA,NA,,NA
 https://doi.org/10.1002/cam4.676,10.1002/cam4.676,no,NA,NA,,NA
