@@ -118,7 +118,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Extracting data from vector figures in scholarly articles</h1>
 <h4 class="author"><em>CHJ Hartgerink (Tilburg University, <a href="mailto:c.h.j.hartgerink@uvt.nl">c.h.j.hartgerink@uvt.nl</a>)</em></h4>
-<h4 class="date"><em>11 July, 2017</em></h4>
+<h4 class="date"><em>14 July, 2017</em></h4>
 
 </div>
 
@@ -140,8 +140,8 @@ $(document).ready(function () {
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <p>Information from figures in scholarly articles can be harvested for the underlying data <span class="citation">(see also the preceding “In Brief” report; Hartgerink, C. H. J. 2017)</span>. Figures are typically presented in order to communicate something about the underlying data, but in an inherently static way. As such, reshaping this communication is not readily possible, because the data are not available. Examples of reuse if the data are available could be as simple as joining data across figures, standardizing axes across figures for easy comparison, changing color codings to be more colorblind friendly, or using the data to compute relative numbers instead of absolute numbers. Moreover, considering the current low rates of data sharing <span class="citation">(Wicherts et al. 2006; Vanpaemel et al. 2015; Krawczyk and Reuben 2012)</span> and rapid decrease of the odds of successfully requesting those data <span class="citation">(Vines et al. 2014)</span>, reusing data effectively becomes impossible in the long run because data simply are not available any more. Hence, we find it important to be able to have alternative ways of extracting data solely from results presented in a scholarly report.</p>
-<p>Some figures are stored in bitmap format whereas others are stored in vector format. In a bitmap format the image is stored by saving the color code for each pixel. This means that information about overlapping datapoints is lost, because a pixel in a bitmap does not differentiate between different layers. However, in a vector format, information is stored on the shape and its position on the canvas, which is unrestricted to a specific pixel size. As such, these images can be enlarged without loss of image quality. Moreover, the position of those shapes can be retraced in order to reconstruct data points in a figure. This can even be done when data points overlap, because unlike in the pixel format, overlapping shapes are stored separately in a vector image.</p>
-<p>In the current report, we share the results of alpha software (free- and open source; FOSS) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of the results.</p>
+<p>Some figures are stored in bitmap format whereas others are stored in vector format. In a bitmap format the image is stored by saving the color code for each pixel. This means that information about overlapping datapoints is lost, because a pixel in a bitmap does not differentiate between different layers. However, in a vector format, information is stored on the shape and its position on the canvas, which is unrestricted to a specific pixel size, and information can be saved. As such, these images can be enlarged without loss of image quality. Moreover, the position of those shapes can be retraced in order to reconstruct data points in a figure. This can even be done when data points overlap, because unlike in the pixel format, overlapping shapes are stored alongside each other in a vector image.</p>
+<p>In the current report, we share the results of the alpha software <code>norma</code> (<a href="https://github.com/contentmine/norma">github.com/contentmine/norma</a>) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of the results.</p>
 </div>
 <div id="method" class="section level1">
 <h1>Method</h1>
@@ -522,6 +522,8 @@ The original depiction of a funnel plot <span class="citation">(left, from Bae a
 <div id="author-notes" class="section level1">
 <h1>Author notes</h1>
 <p>All presented materials in this report are version-controlled and freely available a CC 0 Public Domain Dedication on Github (<a href="https://github.com/chartgerink/2015ori-3" class="uri">https://github.com/chartgerink/2015ori-3</a>), and are preserved at Zenodo <span class="citation">(<span class="citeproc-not-found" data-reference-id="PLACEHOLDER"><strong>???</strong></span>)</span>. This research was funded by the Office of Research Integrity under grant ORIIR160019; software developed by ContentMine.</p>
+<!-- # About the authors -->
+<!-- Chris HJ Hartgerink is a PhD-candidate in methods and statistics from Tilburg University (NLD).  -->
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>
