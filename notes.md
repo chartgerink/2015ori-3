@@ -9,3 +9,11 @@ It says 422 results, but when browsing through it on the page gives only 370 res
 # Ideas
 
 1. Extend this to flowcharts to analyze CONSORT or PRISMA flows
+
+# Extraction
+
+1. Upon manual inspection (20170704) of [10.5812_ircmj.40061](./corpus/10.5812_ircmj.40061/fulltext.pdf) I noticed that points are extracted twice (all of them; 60 extracted, 30 present).
+
+2. Extracted data contain x coordinates in column 1, y coordinates in column 2.
+
+3. Scale in 10.2147_BCTT.S94617 not linear so data incorrect (but relative scale is correct, so can be transformed)

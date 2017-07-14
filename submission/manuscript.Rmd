@@ -3,19 +3,20 @@ title: "Extracting data from vector figures in scholarly articles"
 author: "CHJ Hartgerink (Tilburg University, c.h.j.hartgerink@uvt.nl)"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output:
+  word_document: default
+  includes:
+    in_header: hypothesis.html
+  pdf_document: default
   html_document:
     fig_caption: yes
     toc: yes
     toc_depth: 2
-  includes:
-    in_header: hypothesis.html
-  pdf_document: default
-  word_document: default
 bibliography: ../library.bib
 ---
 
 ```{r, echo=FALSE}
 fignr <- 1
+tabnr <- 1
 
 dat <- read.csv('../data/corpus.csv', as.is = TRUE)
 dois <- dat$doi[dat$true_vector == 'yes' & !is.na(dat$doi)]
@@ -25,11 +26,11 @@ vec_dat <- read.csv('../data/funnels.csv')
 
 # Introduction
 
-Information from figures in scholarly articles can be harvested for the underlying data [see also the preceding s"In Brief" report; @Hartgerink-dlib2017]. Figures are typically presented in order to communicate something about the underlying data, but in an inherently static way. As such, reshaping this communication is not readily possible, because the data are not available. Examples of reuse if the data are available could be as simple as joining data across figures, standardizing axes across figures for easy comparison, changing color codings to be more colorblind friendly, or using the data to compute relative numbers instead of absolute numbers. Moreover, considering the current low rates of data sharing [@10.1037/0003-066x.61.7.726;@10.1525/collabra.13;@10.1080/08989621.2012.678688] and rapid decrease of the odds of successfully requesting those data [@10.1016/j.cub.2013.11.014], reusing data effectively becomes impossible in the long run. Hence, we find it important to be able to have alternative ways of extracting data solely from results presented in a scholarly report.
+Information from figures in scholarly articles can be harvested for the underlying data [see also the preceding "In Brief" report; @Hartgerink-dlib2017]. Figures are typically presented in order to communicate something about the underlying data, but in an inherently static way. As such, reshaping this communication is not readily possible, because the data are not available. Examples of reuse if the data are available could be as simple as joining data across figures, standardizing axes across figures for easy comparison, changing color codings to be more colorblind friendly, or using the data to compute relative numbers instead of absolute numbers. Moreover, considering the current low rates of data sharing [@10.1037/0003-066x.61.7.726;@10.1525/collabra.13;@10.1080/08989621.2012.678688] and rapid decrease of the odds of successfully requesting those data [@10.1016/j.cub.2013.11.014], reusing data effectively becomes impossible in the long run because data simply are not available any more. Hence, we find it important to be able to have alternative ways of extracting data solely from results presented in a scholarly report.
 
 Some figures are stored in bitmap format whereas others are stored in vector format. In a bitmap format the image is stored by saving the color code for each pixel. This means that information about overlapping datapoints is lost, because a pixel in a bitmap does not differentiate between different layers. However, in a vector format, information is stored on the shape and its position on the canvas, which is unrestricted to a specific pixel size. As such, these images can be enlarged without loss of image quality. Moreover, the position of those shapes can be retraced in order to reconstruct data points in a figure. This can even be done when data points overlap, because unlike in the pixel format, overlapping shapes are stored separately in a vector image.
 
-In the current report, we share the results of alpha software (free- and open source; FOSS) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of current publishing practices. 
+In the current report, we share the results of alpha software (free- and open source; FOSS) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of the results. 
 
 # Method
 
@@ -47,7 +48,7 @@ Based on the plot body, absolute locations of the individual data points are ext
 ```
 This information can be readily extracted after isolating the vector figure from a PDF file. The current alpha software is primarily developed to operate on circles of similar size within one plot.
 
-In order to make the absolute locations of the shapes represent the original data points as accurately as possible, they need to be mapped onto the x-axis and y-axis. Although absolute locations retain the relative relations between the individual data points, they are not representative of the original data. As such, the software extracts the location of the axes and their respective scales. Subsequently, the location of the x-axis and y-axis, combined with the information about the scale, are combined to remap the absolute locations on the canvas into the original data points. The current alpha software assumes a linear scale, but logarithmic scales could be incorporated at a future stage.
+In order to make the absolute locations of the shapes represent the original data points as accurately as possible, they are mapped onto the identified x- and y-axis. Although absolute locations retain the relative relations between the individual data points, they are not representative of the original data. As such, the software extracts the location of the axes and their respective scales. Subsequently, the location of the x-axis and y-axis, combined with the information about the scale, are combined to remap the absolute locations on the canvas into the original data points. The current alpha software assumes a linear scale, but logarithmic scales could be incorporated at a future stage.
 <!-- verify with PMR -->
 
 ## Corpus
@@ -68,7 +69,7 @@ knitr::include_graphics('../figures/example-bitmap.png')
 
 ## Documentation
 
-The following documentation assumes that the Github repository for this project is cloned and that the working directory is the resulting folder. As such, in order to walk through these documentation steps, the following code is run from the shell command line.
+The following documentation assumes that the Github repository for this project is cloned and that the working directory is the resulting folder. As such, in order to walk through these documentation steps, the following code is run from the shell command line
 ```bash
 # Via SSH
 git clone git@github.com:chartgerink/2015ori-3
@@ -77,12 +78,13 @@ git clone https://github.com/chartgerink/2015ori-3
 # Change the working directory
 cd 2015ori-3
 ```
+If `git` is not available from the commandline, a direct download of the project is available from Github ([https://github.com/chartgerink/2015ori-3/archive/master.zip](https://github.com/chartgerink/2015ori-3/archive/master.zip)). All dependencies are included in the packaged command line tool `norma` and the user is only required to have Java installed on their system and available from the commandline. 
 
 ```{r, echo = FALSE}
 stepsnr <- 5
 ```
 
-In order to extract data from figures with the software `norma`, `r stepsnr` steps need to be taken. First, the user needs to organize all original PDFs into one folder. Second, this folder needs to be converted to a `cproject` structure. The `cproject` structure normalizes the contents for each paper into a `ctree`, such that subsequent operations are trivial to standardize (and extensions can be applied relatively easily). For example, the root folder might contain `ctree1.pdf`, but after transforming the root folder into a `cproject` it contains a folder `ctree1/` with `fulltext.pdf`. By running the command 
+In order to extract data from vector figures with the software `norma`, `r stepsnr` steps are taken. First, the user needs to organize all original PDFs into one folder. Second, this folder needs to be converted to a `cproject` structure. The `cproject` structure normalizes the contents for each paper into a `ctree`, such that subsequent operations are trivial to standardize (and extensions can be applied relatively easily). For example, the root folder might contain `ctree1.pdf`, but after transforming the root folder into a `cproject` it contains a folder `ctree1/` with `fulltext.pdf`. By running the command 
 ```bash
 java -jar bin/norma-0.5.0-SNAPSHOT-jar-with-dependencies.jar --project corpus-test2  --fileFilter '.*/(.*).pdf' --makeProject '(\1)/fulltext.pdf'
 ```
@@ -128,32 +130,46 @@ Finally, each figure is converted to a data file with `norma`. The following com
 java -jar bin/norma-0.5.0-SNAPSHOT-jar-with-dependencies.jar --project corpus-test2 --fileFilter "^.*figures/figure(\\d+)/figure(_\\d+)?\\.svg"  --outputDir corpus-test2 --transform scatter2csv
 ```
 
-Dependencies for the software are included in the packaged command line tool for `norma` and the user is only required to have Java installed. 
-
 # Results
 
-Through searching ScienceOpen, we identified `r sum(dat$vector == 'yes', na.rm = TRUE)` meta-analytic reports containing vector based funnel plots. Upon manual inspection of those `r dim(dat)[1]` meta-analytic reports, `r sum(dat$funnel == 'yes', na.rm = TRUE)` (`r round((sum(dat$funnel == 'yes', na.rm = TRUE) / dim(dat)[1]) * 100, 0)`%) contained funnel plots. Of those `r sum(dat$funnel == 'yes', na.rm = TRUE)`, we identified `r sum(dat$vector == 'yes', na.rm = TRUE)` reports (`r round((sum(dat$vector == 'yes', na.rm = TRUE) / sum(dat$funnel == 'yes', na.rm = TRUE)) * 100, 0)`%) with vector based images on the heuristic described in the methods section (i.e., selectable tick marks). 
+By searching ScienceOpen, we identified `r sum(dat$true_vector == 'yes', na.rm = TRUE)` meta-analytic reports containing vector based funnel plots. Upon manual inspection of the `r dim(dat)[1]` initially found meta-analytic reports, `r sum(dat$funnel == 'yes', na.rm = TRUE)` (`r round((sum(dat$funnel == 'yes', na.rm = TRUE) / dim(dat)[1]) * 100, 0)`%) contained funnel plots. Of those `r sum(dat$funnel == 'yes', na.rm = TRUE)` meta-analytic reports with funnel plots, we identified `r sum(dat$vector == 'yes' | dat$vector == 'maybe', na.rm = TRUE)` reports (`r round((sum(dat$vector == 'yes' | dat$vector == 'maybe', na.rm = TRUE) / sum(dat$funnel == 'yes', na.rm = TRUE)) * 100, 0)`%) with vector based images, assuming the heuristic described in the methods section (i.e., selectable tick marks). Finally, of those `r sum(dat$vector == 'yes' | dat$vector == 'maybe', na.rm = TRUE)` reports with selectable tick marks, `r sum(dat$true_vector == 'yes', na.rm = TRUE)` reports contained a vector based plot body (`r round(sum(dat$true_vector == 'yes', na.rm = TRUE) / sum(dat$vector == 'yes' | dat$vector == 'maybe', na.rm = TRUE) * 100, 0)`%).
 
-2. Extracting data
-  * Identified vectors == vector: `r sum(dat$true_vector[dat$vector == 'yes'] == 'yes', na.rm = TRUE)`
-  * Number of vectors in those papers: `r sum(dat$nr_funnel[dat$true_vector == 'yes'], na.rm = TRUE)`
-  * DOIs of papers that were extracted: `r dois`
-  * Number of vectors with data extracted: `r sum(vec_dat$data_extracted)`
-  * data mapped correctly: `r sum(vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes', na.rm = TRUE)`
+These `r sum(dat$true_vector == 'yes', na.rm = TRUE)` reports contained `r sum(dat$nr_funnel[dat$true_vector == 'yes'], na.rm = TRUE)` vector funnel plots; we extracted data for `r sum(vec_dat$data_extracted == 1)` funnel plots (`r round((sum(vec_dat$data_extracted == 1) / sum(dat$nr_funnel[dat$true_vector == 'yes'], na.rm = TRUE)) * 100, 0)`%) using the software. Table `r tabnr` depicts the DOIs and the figure numbers for which we extracted or failed to extract data. For the `r sum(dat$nr_funnel[dat$true_vector == 'yes'], na.rm = TRUE) - sum(vec_dat$data_extracted == 1)` funnel plots without extracted data, the notes indicate potential reasons as to why we were unable to extract the data. 
 
 ```{r, echo = FALSE}
-df <- data.frame(doi = dois)
-knitr::kable(df, caption = "Papers")
+df <- vec_dat
+df <- df[,c(1:4, 9:12)]
+df$data_extracted <- ifelse(df$data_extracted == 0, 'no', 'yes')
+names(df) <- c("DOI",
+               "Fig. #",
+               "Paper fig. #",
+               "Data extracted",
+               "# extracted data points",
+               "# manual data points",
+               "X-axis correct",
+               "Y-axis correct")
+               # "Note")
+knitr::kable(df, caption = "All meta-analytic reports with vector based funnel plots and the results of automated data extraction. The figure number depicts the funnel plot order for extraction, the paper figure number depicts the original figure number in the paper. 'Data extracted' indicates whether any datafile was generated by the software. '# extracted data points' indicates the number of rows in the datafile; '# manual data points' indicates the visually discernable data points in the plot. 'X-axis correct' and 'Y-axis correct' depicts whether the extracted data corresponded to the data points of the funnel plot upon manual inspection.")
+
+tabnr <- tabnr + 1
 ```
+
+Of the `r sum(vec_dat$data_extracted == 1)` funnel plots with extracted data, we extracted data for `r dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1]` funnel plots correctly (`r round((dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1] / dim(vec_dat)[1]) * 100, 0)`%). That is, the data points were correctly mapped onto the x- and y-axis and the number of extracted data points corresponded to the number of visually discernable data points. For the remaining `r sum(vec_dat$data_extracted == 1) - dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1]` funnel plots, there `r ifelse(sum(complete.cases(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted != vec_dat$datapoints_manual, ])) > 1, "were", "was")` `r sum(complete.cases(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted != vec_dat$datapoints_manual, ]))` with correctly mapped x- and y-axes, but with an incorrect number of extracted data points. For the remaining `r dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1] - sum(complete.cases(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted != vec_dat$datapoints_manual, ]))` funnel plots, the software did not correctly map the axes or did not extract the correct number of data points.
 
 # Discussion
 
-As the results indicate, vector based images are a .
+As the results indicate, vector figures are a fruitful and feasible resource for data extraction. Based on initial alpha software of `norma` to extract data from vector figures, we correctly extracted data from `r round((dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1] / dim(vec_dat)[1]) * 100, 0)`% of funnel plots for which data was extracted. This is a very strict assessment, considering our manual investigation depicted that four extracted datasets only required a simple reversal of one axis to be 100% accurate (i.e., 1.23 should be -1.23, etc.), adding a constant to adjust an incorrect mapping, or by rescaling an axis to fit to the logarithmic scale of one axis. If these manual corrections for four funnel plots are made, `r round(((dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1] + 4) / dim(vec_dat)[1]) * 100, 0)`% of all funnel plots for which data were extracted are 100% accurate.
 
-However, the usage of vec
+Considering the alpha software to extract data from vectors was developed in the timespan of approximately one month, we are hopeful that future development can refine the data extraction and eliminate some minor bugs, including those such as reversed axes, logarithmic axes, etc. The current software was developed specifically on funnel plots, but its use can be extended to include other types of plots, such as histograms, etc. Moreover, third-dimensions such as variable point size provide a fruitful avenue, considering the SVG also contains information on this (see [Extraction procedure](#extraction-procedure)).
+
+The main bottleneck for data extraction from vector figures is the publication of vector figures. The results indicate that the availability of vector figures is relatively sparse; only `r sum(dat$true_vector == 'yes', na.rm = TRUE)` out of `r sum(dat$funnel_plot == 'yes', na.rm = TRUE)` papers with funnel plots contained vector figures in our sample. From our own anecdotal publishing experience, vector based figures are often converted into bitmaps in the editing stage, resulting in loss of information. For publishers themselves, it is also fruitful to use vector based figures where possible, considering figure quality is no longer an issue as a result. As such, we encourage both authors and publishers to produce figures in vector format (e.g., PDF, SVG, EPS) instead of bitmap format (e.g., JPEG, PNG, GIF) when it regards figures presenting results.
 
 # Author notes
 
-All presented materials in this report are version-controlled and freely available on Github (https://github.com/chartgerink/2015ori-3), and were preserved upon submission at Zenodo [@]. This research was funded by the Office of Research Integrity under grant NUMBER_INSERT.
+All presented materials in this report are version-controlled and freely available a CC 0 Public Domain Dedication on Github (https://github.com/chartgerink/2015ori-3), and are preserved at Zenodo [@PLACEHOLDER]. This research was funded by the Office of Research Integrity under grant ORIIR160019; software developed by ContentMine.
+
+<!-- # About the authors -->
+
+<!-- Chris HJ Hartgerink is a PhD-candidate in methods and statistics from Tilburg University (NLD).  -->
 
 # References

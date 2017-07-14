@@ -118,7 +118,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Extracting data from vector figures in scholarly articles</h1>
 <h4 class="author"><em>CHJ Hartgerink (Tilburg University, <a href="mailto:c.h.j.hartgerink@uvt.nl">c.h.j.hartgerink@uvt.nl</a>)</em></h4>
-<h4 class="date"><em>10 July, 2017</em></h4>
+<h4 class="date"><em>11 July, 2017</em></h4>
 
 </div>
 
@@ -139,9 +139,9 @@ $(document).ready(function () {
 
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
-<p>Information from figures in scholarly articles can be harvested for the underlying data <span class="citation">(see also the preceding s“In Brief” report; Hartgerink, C. H. J. 2017)</span>. Figures are typically presented in order to communicate something about the underlying data, but in an inherently static way. As such, reshaping this communication is not readily possible, because the data are not available. Examples of reuse if the data are available could be as simple as joining data across figures, standardizing axes across figures for easy comparison, changing color codings to be more colorblind friendly, or using the data to compute relative numbers instead of absolute numbers. Moreover, considering the current low rates of data sharing <span class="citation">(Wicherts et al. 2006; Vanpaemel et al. 2015; Krawczyk and Reuben 2012)</span> and rapid decrease of the odds of successfully requesting those data <span class="citation">(Vines et al. 2014)</span>, reusing data effectively becomes impossible in the long run. Hence, we find it important to be able to have alternative ways of extracting data solely from results presented in a scholarly report.</p>
+<p>Information from figures in scholarly articles can be harvested for the underlying data <span class="citation">(see also the preceding “In Brief” report; Hartgerink, C. H. J. 2017)</span>. Figures are typically presented in order to communicate something about the underlying data, but in an inherently static way. As such, reshaping this communication is not readily possible, because the data are not available. Examples of reuse if the data are available could be as simple as joining data across figures, standardizing axes across figures for easy comparison, changing color codings to be more colorblind friendly, or using the data to compute relative numbers instead of absolute numbers. Moreover, considering the current low rates of data sharing <span class="citation">(Wicherts et al. 2006; Vanpaemel et al. 2015; Krawczyk and Reuben 2012)</span> and rapid decrease of the odds of successfully requesting those data <span class="citation">(Vines et al. 2014)</span>, reusing data effectively becomes impossible in the long run because data simply are not available any more. Hence, we find it important to be able to have alternative ways of extracting data solely from results presented in a scholarly report.</p>
 <p>Some figures are stored in bitmap format whereas others are stored in vector format. In a bitmap format the image is stored by saving the color code for each pixel. This means that information about overlapping datapoints is lost, because a pixel in a bitmap does not differentiate between different layers. However, in a vector format, information is stored on the shape and its position on the canvas, which is unrestricted to a specific pixel size. As such, these images can be enlarged without loss of image quality. Moreover, the position of those shapes can be retraced in order to reconstruct data points in a figure. This can even be done when data points overlap, because unlike in the pixel format, overlapping shapes are stored separately in a vector image.</p>
-<p>In the current report, we share the results of alpha software (free- and open source; FOSS) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of current publishing practices.</p>
+<p>In the current report, we share the results of alpha software (free- and open source; FOSS) to extract raw data from vector based figures. More specifically, we report the method of data extraction, the effectiveness, and provide documentation to use the software pipeline. Finally, we review the potential of using vector based images to extract data from scholarly reports in light of the results.</p>
 </div>
 <div id="method" class="section level1">
 <h1>Method</h1>
@@ -157,7 +157,7 @@ Visual representation of the typical components to a data based plot. This serve
 <p>Based on the plot body, absolute locations of the individual data points are extracted. Not all vector images are created in a similar way, but in the simplest scenario with circles, the vector gives three parameters: the <span class="math inline">\(x\)</span> coordinate of the centre, the <span class="math inline">\(y\)</span> coordinate of the centre, and the radius <span class="math inline">\(r\)</span>. As such, for a simple circle the underlying vector code might look as follows:</p>
 <pre class="html"><code>&lt;circle cx=&quot;103.71&quot; cy=&quot;121.22&quot; r=&quot;25.234&quot; fill-opacity=&quot;0&quot; stroke=&quot;#cf1d35&quot; stroke-width=&quot;.26458&quot;/&gt;</code></pre>
 <p>This information can be readily extracted after isolating the vector figure from a PDF file. The current alpha software is primarily developed to operate on circles of similar size within one plot.</p>
-<p>In order to make the absolute locations of the shapes represent the original data points as accurately as possible, they need to be mapped onto the x-axis and y-axis. Although absolute locations retain the relative relations between the individual data points, they are not representative of the original data. As such, the software extracts the location of the axes and their respective scales. Subsequently, the location of the x-axis and y-axis, combined with the information about the scale, are combined to remap the absolute locations on the canvas into the original data points. The current alpha software assumes a linear scale, but logarithmic scales could be incorporated at a future stage. <!-- verify with PMR --></p>
+<p>In order to make the absolute locations of the shapes represent the original data points as accurately as possible, they are mapped onto the identified x- and y-axis. Although absolute locations retain the relative relations between the individual data points, they are not representative of the original data. As such, the software extracts the location of the axes and their respective scales. Subsequently, the location of the x-axis and y-axis, combined with the information about the scale, are combined to remap the absolute locations on the canvas into the original data points. The current alpha software assumes a linear scale, but logarithmic scales could be incorporated at a future stage. <!-- verify with PMR --></p>
 </div>
 <div id="corpus" class="section level2">
 <h2>Corpus</h2>
@@ -178,14 +178,15 @@ Example of a funnel plot with selectable axes <span class="citation">(Suphanchai
 </div>
 <div id="documentation" class="section level2">
 <h2>Documentation</h2>
-<p>The following documentation assumes that the Github repository for this project is cloned and that the working directory is the resulting folder. As such, in order to walk through these documentation steps, the following code is run from the shell command line.</p>
+<p>The following documentation assumes that the Github repository for this project is cloned and that the working directory is the resulting folder. As such, in order to walk through these documentation steps, the following code is run from the shell command line</p>
 <pre class="bash"><code># Via SSH
 git clone git@github.com:chartgerink/2015ori-3
 # Via HTTPS (if you don't know what SSH is, use this)
 git clone https://github.com/chartgerink/2015ori-3
 # Change the working directory
 cd 2015ori-3</code></pre>
-<p>In order to extract data from figures with the software <code>norma</code>, 5 steps need to be taken. First, the user needs to organize all original PDFs into one folder. Second, this folder needs to be converted to a <code>cproject</code> structure. The <code>cproject</code> structure normalizes the contents for each paper into a <code>ctree</code>, such that subsequent operations are trivial to standardize (and extensions can be applied relatively easily). For example, the root folder might contain <code>ctree1.pdf</code>, but after transforming the root folder into a <code>cproject</code> it contains a folder <code>ctree1/</code> with <code>fulltext.pdf</code>. By running the command</p>
+<p>If <code>git</code> is not available from the commandline, a direct download of the project is available from Github (<a href="https://github.com/chartgerink/2015ori-3/archive/master.zip" class="uri">https://github.com/chartgerink/2015ori-3/archive/master.zip</a>). All dependencies are included in the packaged command line tool <code>norma</code> and the user is only required to have Java installed on their system and available from the commandline.</p>
+<p>In order to extract data from vector figures with the software <code>norma</code>, 5 steps are taken. First, the user needs to organize all original PDFs into one folder. Second, this folder needs to be converted to a <code>cproject</code> structure. The <code>cproject</code> structure normalizes the contents for each paper into a <code>ctree</code>, such that subsequent operations are trivial to standardize (and extensions can be applied relatively easily). For example, the root folder might contain <code>ctree1.pdf</code>, but after transforming the root folder into a <code>cproject</code> it contains a folder <code>ctree1/</code> with <code>fulltext.pdf</code>. By running the command</p>
 <pre class="bash"><code>java -jar bin/norma-0.5.0-SNAPSHOT-jar-with-dependencies.jar --project corpus-test2  --fileFilter '.*/(.*).pdf' --makeProject '(\1)/fulltext.pdf'</code></pre>
 <p>the folder <code>corpus-test2</code> (<code>--project corpus-test2</code>) is restructured into a <code>cproject</code> structure, containing a folder for each PDF file (<code>--fileFilter '.*/(.*).pdf' --makeProject '(\1)/fulltext.pdf'</code>). This results in the following folder structure:</p>
 <pre class="bash"><code>cproject/
@@ -217,86 +218,310 @@ The original depiction of a funnel plot <span class="citation">(left, from Bae a
 </div>
 <p>Finally, each figure is converted to a data file with <code>norma</code>. The following command produces an annoted SVG file showing the identified areas from Figure 1 and a CSV file containing the data</p>
 <pre class="bash"><code>java -jar bin/norma-0.5.0-SNAPSHOT-jar-with-dependencies.jar --project corpus-test2 --fileFilter &quot;^.*figures/figure(\\d+)/figure(_\\d+)?\\.svg&quot;  --outputDir corpus-test2 --transform scatter2csv</code></pre>
-<p>Dependencies for the software are included in the packaged command line tool for <code>norma</code> and the user is only required to have Java installed.</p>
 </div>
 </div>
 <div id="results" class="section level1">
 <h1>Results</h1>
-<p>Through searching ScienceOpen, we identified 16 meta-analytic reports containing vector based funnel plots. Upon manual inspection of those 368 meta-analytic reports, 136 (37%) contained funnel plots. Of those 136, we identified 16 reports (12%) with vector based images on the heuristic described in the methods section (i.e., selectable tick marks).</p>
-<ol start="2" style="list-style-type: decimal">
-<li>Extracting data</li>
-</ol>
-<ul>
-<li>Identified vectors == vector: 15</li>
-<li>Number of vectors in those papers: 27</li>
-<li>DOIs of papers that were extracted: 10.1186/s12891-016-1231-4, 10.1186/s13054-016-1298-1, 10.1186/s12885-016-2685-3, 10.1186/s12889-016-3083-0, 10.1186/s13027-016-0058-9, 10.1186/s40064-016-3064-x, 10.1515/med-2016-0052, 10.1515/med-2016-0099, 10.1590/S1518-8787.2016050006236, 10.21053/ceo.2016.9.1.1, 10.2147/BCTT.S94617, 10.3349/ymj.2016.57.5.1260, 10.3390/ijerph13050458, 10.5114/aoms.2016.61916, 10.5812/ircmj.40061</li>
-<li>Number of vectors with data extracted: 24</li>
-<li>data mapped correctly: 13</li>
-</ul>
+<p>By searching ScienceOpen, we identified 15 meta-analytic reports containing vector based funnel plots. Upon manual inspection of the 368 initially found meta-analytic reports, 136 (37%) contained funnel plots. Of those 136 meta-analytic reports with funnel plots, we identified 32 reports (24%) with vector based images, assuming the heuristic described in the methods section (i.e., selectable tick marks). Finally, of those 32 reports with selectable tick marks, 15 reports contained a vector based plot body (47%).</p>
+<p>These 15 reports contained 27 vector funnel plots; we extracted data for 24 funnel plots (89%) using the software. Table 1 depicts the DOIs and the figure numbers for which we extracted or failed to extract data. For the 3 funnel plots without extracted data, the notes indicate potential reasons as to why we were unable to extract the data.</p>
 <table>
-<caption>Papers</caption>
+<caption>All meta-analytic reports with vector based funnel plots and the results of automated data extraction. The figure number depicts the funnel plot order for extraction, the paper figure number depicts the original figure number in the paper. ‘Data extracted’ indicates whether any datafile was generated by the software. ‘# extracted data points’ indicates the number of rows in the datafile; ‘# manual data points’ indicates the visually discernable data points in the plot. ‘X-axis correct’ and ‘Y-axis correct’ depicts whether the extracted data corresponded to the data points of the funnel plot upon manual inspection.</caption>
 <thead>
 <tr class="header">
-<th align="left">doi</th>
+<th align="left">DOI</th>
+<th align="right">Fig. #</th>
+<th align="left">Paper fig. #</th>
+<th align="left">Data extracted</th>
+<th align="right"># extracted data points</th>
+<th align="right"># manual data points</th>
+<th align="left">X-axis correct</th>
+<th align="left">Y-axis correct</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">10.1186/s12891-016-1231-4</td>
-</tr>
-<tr class="even">
-<td align="left">10.1186/s13054-016-1298-1</td>
-</tr>
-<tr class="odd">
 <td align="left">10.1186/s12885-016-2685-3</td>
+<td align="right">1</td>
+<td align="left">4</td>
+<td align="left">yes</td>
+<td align="right">24</td>
+<td align="right">24</td>
+<td align="left">yes</td>
+<td align="left">no</td>
 </tr>
 <tr class="even">
 <td align="left">10.1186/s12889-016-3083-0</td>
+<td align="right">1</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">5</td>
+<td align="right">5</td>
+<td align="left">no</td>
+<td align="left">no</td>
 </tr>
 <tr class="odd">
+<td align="left">10.1186/s12891-016-1231-4</td>
+<td align="right">1</td>
+<td align="left">4</td>
+<td align="left">yes</td>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="left">yes</td>
+<td align="left">no</td>
+</tr>
+<tr class="even">
 <td align="left">10.1186/s13027-016-0058-9</td>
+<td align="right">1</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">24</td>
+<td align="right">22</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="odd">
+<td align="left">10.1186/s13054-016-1298-1</td>
+<td align="right">1</td>
+<td align="left">4</td>
+<td align="left">no</td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="left">NA</td>
+<td align="left">NA</td>
 </tr>
 <tr class="even">
 <td align="left">10.1186/s40064-016-3064-x</td>
+<td align="right">1</td>
+<td align="left">6a</td>
+<td align="left">no</td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="left">NA</td>
+<td align="left">NA</td>
+</tr>
+<tr class="odd">
+<td align="left">10.1186/s40064-016-3064-x</td>
+<td align="right">2</td>
+<td align="left">6b</td>
+<td align="left">yes</td>
+<td align="right">21</td>
+<td align="right">8</td>
+<td align="left">no</td>
+<td align="left">no</td>
+</tr>
+<tr class="even">
+<td align="left">10.1186/s40064-016-3064-x</td>
+<td align="right">3</td>
+<td align="left">6c</td>
+<td align="left">yes</td>
+<td align="right">19</td>
+<td align="right">6</td>
+<td align="left">no</td>
+<td align="left">no</td>
 </tr>
 <tr class="odd">
 <td align="left">10.1515/med-2016-0052</td>
+<td align="right">1</td>
+<td align="left">2</td>
+<td align="left">yes</td>
+<td align="right">23</td>
+<td align="right">23</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="even">
+<td align="left">10.1515/med-2016-0052</td>
+<td align="right">2</td>
+<td align="left">4</td>
+<td align="left">yes</td>
+<td align="right">23</td>
+<td align="right">23</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="odd">
+<td align="left">10.1515/med-2016-0052</td>
+<td align="right">3</td>
+<td align="left">6</td>
+<td align="left">yes</td>
+<td align="right">23</td>
+<td align="right">23</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
 </tr>
 <tr class="even">
 <td align="left">10.1515/med-2016-0099</td>
+<td align="right">1</td>
+<td align="left">7a</td>
+<td align="left">yes</td>
+<td align="right">7</td>
+<td align="right">7</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
 </tr>
 <tr class="odd">
+<td align="left">10.1515/med-2016-0099</td>
+<td align="right">2</td>
+<td align="left">7b</td>
+<td align="left">yes</td>
+<td align="right">11</td>
+<td align="right">11</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="even">
+<td align="left">10.1515/med-2016-0099</td>
+<td align="right">3</td>
+<td align="left">7c</td>
+<td align="left">yes</td>
+<td align="right">10</td>
+<td align="right">10</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="odd">
+<td align="left">10.1515/med-2016-0099</td>
+<td align="right">4</td>
+<td align="left">7d</td>
+<td align="left">yes</td>
+<td align="right">7</td>
+<td align="right">7</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="even">
 <td align="left">10.1590/S1518-8787.2016050006236</td>
+<td align="right">1</td>
+<td align="left">3</td>
+<td align="left">no</td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="left">NA</td>
+<td align="left">NA</td>
+</tr>
+<tr class="odd">
+<td align="left">10.21053/ceo.2016.9.1.1</td>
+<td align="right">1</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">18</td>
+<td align="right">18</td>
+<td align="left">yes</td>
+<td align="left">no</td>
 </tr>
 <tr class="even">
 <td align="left">10.21053/ceo.2016.9.1.1</td>
+<td align="right">2</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">13</td>
+<td align="right">13</td>
+<td align="left">yes</td>
+<td align="left">no</td>
+</tr>
+<tr class="odd">
+<td align="left">10.21053/ceo.2016.9.1.1</td>
+<td align="right">3</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">14</td>
+<td align="right">14</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="even">
+<td align="left">10.21053/ceo.2016.9.1.1</td>
+<td align="right">4</td>
+<td align="left">3</td>
+<td align="left">yes</td>
+<td align="right">9</td>
+<td align="right">9</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
 </tr>
 <tr class="odd">
 <td align="left">10.2147/BCTT.S94617</td>
+<td align="right">1</td>
+<td align="left">7</td>
+<td align="left">yes</td>
+<td align="right">7</td>
+<td align="right">7</td>
+<td align="left">no</td>
+<td align="left">yes</td>
 </tr>
 <tr class="even">
 <td align="left">10.3349/ymj.2016.57.5.1260</td>
+<td align="right">1</td>
+<td align="left">7</td>
+<td align="left">yes</td>
+<td align="right">24</td>
+<td align="right">24</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
 </tr>
 <tr class="odd">
+<td align="left">10.3349/ymj.2016.57.5.1260</td>
+<td align="right">2</td>
+<td align="left">8</td>
+<td align="left">yes</td>
+<td align="right">12</td>
+<td align="right">12</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
+</tr>
+<tr class="even">
 <td align="left">10.3390/ijerph13050458</td>
+<td align="right">1</td>
+<td align="left">24</td>
+<td align="left">yes</td>
+<td align="right">15</td>
+<td align="right">15</td>
+<td align="left">yes</td>
+<td align="left">no</td>
+</tr>
+<tr class="odd">
+<td align="left">10.5114/aoms.2016.61916</td>
+<td align="right">1</td>
+<td align="left">4</td>
+<td align="left">yes</td>
+<td align="right">5</td>
+<td align="right">5</td>
+<td align="left">yes</td>
+<td align="left">no</td>
 </tr>
 <tr class="even">
 <td align="left">10.5114/aoms.2016.61916</td>
+<td align="right">2</td>
+<td align="left">4</td>
+<td align="left">yes</td>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="left">yes</td>
+<td align="left">no</td>
 </tr>
 <tr class="odd">
 <td align="left">10.5812/ircmj.40061</td>
+<td align="right">1</td>
+<td align="left">11</td>
+<td align="left">yes</td>
+<td align="right">30</td>
+<td align="right">30</td>
+<td align="left">yes</td>
+<td align="left">yes</td>
 </tr>
 </tbody>
 </table>
+<p>Of the 24 funnel plots with extracted data, we extracted data for 15 funnel plots correctly (56%). That is, the data points were correctly mapped onto the x- and y-axis and the number of extracted data points corresponded to the number of visually discernable data points. For the remaining 9 funnel plots, there was 1 with correctly mapped x- and y-axes, but with an incorrect number of extracted data points. For the remaining 14 funnel plots, the software did not correctly map the axes or did not extract the correct number of data points.</p>
 </div>
 <div id="discussion" class="section level1">
 <h1>Discussion</h1>
-<p>As the results indicate, vector based images are a .</p>
-<p>However, the usage of vec</p>
+<p>As the results indicate, vector figures are a fruitful and feasible resource for data extraction. Based on initial alpha software of <code>norma</code> to extract data from vector figures, we correctly extracted data from 56% of funnel plots for which data was extracted. This is a very strict assessment, considering our manual investigation depicted that four extracted datasets only required a simple reversal of one axis to be 100% accurate (i.e., 1.23 should be -1.23, etc.), adding a constant to adjust an incorrect mapping, or by rescaling an axis to fit to the logarithmic scale of one axis. If these manual corrections for four funnel plots are made, 70% of all funnel plots for which data were extracted are 100% accurate.</p>
+<p>Considering the alpha software to extract data from vectors was developed in the timespan of approximately one month, we are hopeful that future development can refine the data extraction and eliminate some minor bugs, including those such as reversed axes, logarithmic axes, etc. The current software was developed specifically on funnel plots, but its use can be extended to include other types of plots, such as histograms, etc. Moreover, third-dimensions such as variable point size provide a fruitful avenue, considering the SVG also contains information on this (see <a href="#extraction-procedure">Extraction procedure</a>).</p>
+<p>The main bottleneck for data extraction from vector figures is the publication of vector figures. The results indicate that the availability of vector figures is relatively sparse; only 15 out of 136 papers with funnel plots contained vector figures in our sample. From our own anecdotal publishing experience, vector based figures are often converted into bitmaps in the editing stage, resulting in loss of information. For publishers themselves, it is also fruitful to use vector based figures where possible, considering figure quality is no longer an issue as a result. As such, we encourage both authors and publishers to produce figures in vector format (e.g., PDF, SVG, EPS) instead of bitmap format (e.g., JPEG, PNG, GIF) when it regards figures presenting results.</p>
 </div>
 <div id="author-notes" class="section level1">
 <h1>Author notes</h1>
-<p>All presented materials in this report are version-controlled and freely available on Github (<a href="https://github.com/chartgerink/2015ori-3" class="uri">https://github.com/chartgerink/2015ori-3</a>), and were preserved upon submission at Zenodo [@]. This research was funded by the Office of Research Integrity under grant NUMBER_INSERT.</p>
+<p>All presented materials in this report are version-controlled and freely available a CC 0 Public Domain Dedication on Github (<a href="https://github.com/chartgerink/2015ori-3" class="uri">https://github.com/chartgerink/2015ori-3</a>), and are preserved at Zenodo <span class="citation">(<span class="citeproc-not-found" data-reference-id="PLACEHOLDER"><strong>???</strong></span>)</span>. This research was funded by the Office of Research Integrity under grant ORIIR160019; software developed by ContentMine.</p>
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>
