@@ -1,16 +1,17 @@
 ---
 title: "Extracting data from vector figures in scholarly articles"
-author: "CHJ Hartgerink (Tilburg University, c.h.j.hartgerink@uvt.nl)"
+author: CHJ Hartgerink (Tilburg University, c.h.j.hartgerink@uvt.nl), Peter Murray-Rust
+  (Cambridge University, pm286@cam.ac.uk)
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output:
-  word_document: default
+  pdf_document: default
   includes:
     in_header: hypothesis.html
-  pdf_document: default
   html_document:
     fig_caption: yes
-    toc: yes
+    toc: no
     toc_depth: 2
+  word_document: default
 bibliography: ../library.bib
 ---
 
@@ -23,6 +24,10 @@ dois <- dat$doi[dat$true_vector == 'yes' & !is.na(dat$doi)]
 dois <- dois[!is.na(dois)]
 vec_dat <- read.csv('../data/funnels.csv')
 ```
+
+# Abstract
+
+It is common for authors to communicate their results in graphical figures, but those data are frequently unavailable for reanalysis. Reconstructing data points from a figure manually requires the author to measure the coordinates either on printed pages using a ruler, or from the display screen using a cursor. This is time-consuming (often hours) and error-prone, and limited by the precision of the display or ruler. What is often not realised is that the data themselves are held in the PDF document to much higher precision (usually 0.0-0.01 pixels), if the figure is stored in vector format. We developed alpha software to automate reconstruct data from vector figures and tested it on funnel plots in the meta-analysis literature. Our results indicate that reconstructing data from vector based figures is promising, where we correctly extracted data for `r dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1]` out of `r sum(vec_dat$data_extracted == 1)` funnel plots with extracted data (`r round((dim(vec_dat[vec_dat$x_ax_mapped == 'yes' & vec_dat$y_ax_mapped == 'yes' & vec_dat$datapoints_extracted == vec_dat$datapoints_manual, ])[1] / dim(vec_dat)[1]) * 100, 0)`%). However, we observed that vector based figures are relatively sparse (`r sum(dat$true_vector == 'yes', na.rm = TRUE)` out of `r sum(dat$funnel_plot == 'yes', na.rm = TRUE)` papers with funnel plots) and strongly insist publishers to provide more vector based data figures in the near future for the benefit of the scholarly community.
 
 # Introduction
 
@@ -168,10 +173,12 @@ The main bottleneck for data extraction from vector figures is the publication o
 
 # Author notes
 
-All presented materials in this report are version-controlled and freely available a CC 0 Public Domain Dedication on Github (https://github.com/chartgerink/2015ori-3), and are preserved at Zenodo [@PLACEHOLDER]. This research was funded by the Office of Research Integrity under grant ORIIR160019; software developed by ContentMine.
+All presented materials in this report are version-controlled and freely available a CC 0 Public Domain Dedication on Github (https://github.com/chartgerink/2015ori-3), and are preserved at Zenodo ([doi.org/10.5281/zenodo.839536](doi.org/10.5281/zenodo.839536)). This research was funded by the Office of Research Integrity under grant ORIIR160019; software developed by ContentMine ([contentmine.org](contentmine.org)).
 
-<!-- # About the authors -->
+# About the authors
 
-<!-- Chris HJ Hartgerink is a PhD-candidate in methods and statistics from Tilburg University (NLD).  -->
+Chris HJ Hartgerink is a PhD-candidate in methods and statistics from Tilburg University (NLD) as part of the Meta Research group (www.metaresearch.nl).
+
+Peter Murray-Rust is Reader in Molecular Informatics at the University of Cambridge, and Senior Research Fellow of Churchill College, Cambridge. He was educated at Bootham School and Balliol College, Oxford and obtained a Doctor of Philosophy. His research interests have involved the automated analysis of data in scientific publications, creation of virtual communities and the Semantic Web. In 2002, Dr. Murray-Rust and his colleagues proposed an electronic repository for unpublished chemical data called the World Wide Molecular Matrix (WWMM). In 2014 he was awarded a Fellowship by the Shuttleworth Foundation to develop the automated mining of science from the literature. In addition to his work in chemistry, Murray-Rust is also known for his support of open access and open data.
 
 # References
