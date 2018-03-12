@@ -1,7 +1,7 @@
 ---
 title: "Extracting data from vector figures in scholarly articles"
 author: CHJ Hartgerink (Tilburg University, c.h.j.hartgerink@uvt.nl), Peter Murray-Rust
-  (Cambridge University, pm286@cam.ac.uk)
+  (ContentMine, info@contentmine.org)
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output:
   html_document:
